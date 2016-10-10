@@ -1,4 +1,4 @@
-#Segunda semana, 10  de octubre de 2016
+#Segunda semana, 10 de octubre de 2016
 
 Agradeceré que contesteis a la [encuesta inicial](https://docs.google.com/forms/d/e/1FAIpQLSfAHU--1qB37pv1Qep31vFj0TVK_aWH4Cu4mNbh1yl3HMbe-g/viewform) si no lo habéis hecho ya. Recordad
 también la
@@ -18,7 +18,7 @@ también la
 ##Material para la clase
 
 [Material de este primer tema](http://jj.github.io/CC/documentos/temas/Desarrollo_basado_en_pruebas)
-y recordad que la semana siguiente se entrega el [hito 1 del proyecto](http://jj.github.io/CC/documentos/practicas/1.Infraestructura)
+y recordad que la semana siguiente se entrega el [hito 1 del proyecto](http://jj.github.io/CC/documentos/proyecto/1.Infraestructura)
 
 ##Siguiente semana
 
