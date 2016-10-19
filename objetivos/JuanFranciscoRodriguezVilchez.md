@@ -40,7 +40,7 @@ Lista de objetivos Juan Francisco Rodríguez Vílchez
 
 ##Sesión 17-10-2016##
 
-* [X] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
+* [X] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube. [Ejercicios](https://juanfranrv.github.io/CC_Project/ejercicios_Tema1)
 * [X] Entender las características de las aplicaciones que se despliegan en la nube.
 
 ###Otros objetivos###
@@ -53,15 +53,15 @@ Lista de objetivos Juan Francisco Rodríguez Vílchez
 
 ##Sesión 19-10-2016##
 
-* [X] Entender el concepto de desarrollo basado en pruebas.
+* [X] Entender el concepto de desarrollo basado en pruebas.[Ejercicios](https://juanfranrv.github.io/CC_Project/ejercicios_Tema1)
 * [X] Comprender la necesidad del mismo para un ciclo de desarrollo cuyo final es la nube.
 * [X] Comprender el paper fundamental de la infraestructura virtual en este proceso.
-* [X] Entender qué se espera del segundo hito del proyecto y comenzar a trabajar en el mismo.
+* [ ] Entender qué se espera del segundo hito del proyecto y comenzar a trabajar en el mismo.
 
 ###Otros objetivos###
 
 * [X] Elegir herramientas de desarrollo para los lenguajes de programación que se usen de forma habitual.
-* [X] Comparar las herramientas de integración continua e integrarlas con un repositorio de prueba para que se ejecuten automáticamente cuando se haga el push.
+* [ ] Comparar las herramientas de integración continua e integrarlas con un repositorio de prueba para que se ejecuten automáticamente cuando se haga el push.
 * [X] Comprobar que se está dado de alta en los medios de comunicación de esta asignatura: [lista de correo y GitHub]
 * [X] Usar de forma correcta GitHub:
     * Configurar todas las variables globales para que los commits se hagan correctamente,
