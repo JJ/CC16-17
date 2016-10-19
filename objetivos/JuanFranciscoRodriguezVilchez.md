@@ -24,3 +24,51 @@ Lista de objetivos Juan Francisco Rodríguez Vílchez
 * [X] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
 
 ***
+
+##Sesión 10-10-2016##
+
+* [X] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
+* [X] Entender las características de las aplicaciones que se despliegan en la nube.
+
+###Otros objetivos###
+
+* [X] Manejar con soltura los diferentes recursos de línea de órdenes, especialmente en Linux.
+* [X] Haber entregado el hito 0 del proyecto.
+* [X] Comprender el primer hito del proyecto.
+
+***
+
+##Sesión 17-10-2016##
+
+* [X] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
+* [X] Entender las características de las aplicaciones que se despliegan en la nube.
+
+###Otros objetivos###
+
+* [X] Revisar los resultados del primer hito y entender los fallos.
+* [X] Elegir herramientas de desarrollo para los lenguajes de programación que se usen de forma habitual.
+* [X] Conocer qué lenguajes son de uso más habitual en la nube y aprender un uso básico de los mismos.
+
+***
+
+##Sesión 19-10-2016##
+
+* [X] Entender el concepto de desarrollo basado en pruebas.
+* [X] Comprender la necesidad del mismo para un ciclo de desarrollo cuyo final es la nube.
+* [X] Comprender el paper fundamental de la infraestructura virtual en este proceso.
+* [X] Entender qué se espera del segundo hito del proyecto y comenzar a trabajar en el mismo.
+
+###Otros objetivos###
+
+* [X] Elegir herramientas de desarrollo para los lenguajes de programación que se usen de forma habitual.
+* [X] Comparar las herramientas de integración continua e integrarlas con un repositorio de prueba para que se ejecuten automáticamente cuando se haga el push.
+* [X] Comprobar que se está dado de alta en los medios de comunicación de esta asignatura: [lista de correo y GitHub]
+* [X] Usar de forma correcta GitHub:
+    * Configurar todas las variables globales para que los commits se hagan correctamente,
+    * Avatar, perfil, ciudad y universidad para fácil identificación.
+    * Usar también el modo ssh para conexión subiendo la clave pública a GitHub, no https.
+    * Aprender el uso de .gitignore para que no aparezcan los ficheros que no deban en git status
+    * Aprender la utilidad de git status.
+
+***
+
