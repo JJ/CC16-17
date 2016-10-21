@@ -49,7 +49,7 @@
 
 ## Tercera semana, 17 de octubre de 2016
 
-- [x] Conocer las arquitecturas de software en la nube de uso en la actualidad [Ejercicios](https://acasadoquijada.github.io/Cloud_Computing_2016-2017/ejerciciosTema1).
+- [x] Conocer las arquitecturas de software en la nube de uso en la actualidadg
 
 - [x] Comprender el paper fundamental de la infraestructura virtual en este proceso.
 
