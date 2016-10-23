@@ -56,6 +56,7 @@
 
 - [x] Comprender el paper fundamental de la infraestructura virtual en este proceso.
 
+
 ### Otros objetivos
 
 - [x] Revisar los resultados del primer hito y entender los fallos.
