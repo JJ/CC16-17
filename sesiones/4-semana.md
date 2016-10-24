@@ -20,13 +20,9 @@ también la
 ##Material para la clase
 
 * *Teoría*:
-  [Material de este  tema](
-  [Material de este primer tema](http://jj.github.io/CC/documentos/temas/Arquitecturas_para_la_nube)
+  [Material de este  tema](http://jj.github.io/CC/documentos/temas/Arquitecturas_para_la_nube)
   
-* *Proyecto*:
-  [Primer hito del proyecto](http://jj.github.io/CC/documentos/practicas/1.Infraestructura),
-  a entregar el 4 de noviembre de 2015. 
 
 ##Siguiente semana
 
-[Quinta semana 26](5-semana.md)
+[Quinta semana](5-semana.md)

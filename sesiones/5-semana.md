@@ -1,41 +1,33 @@
-#Tercera semana, 19 de octubre de 2015
+#Quinta semana, 24 de octubre de 2016
 
 Si todavía no os habéis inscrito, recordad
-también la
-[inscripción en el certamen de proyectos](http://osl.ugr.es/2015/10/01/certamen-de-proyectos-libres-de-la-universidad-de-granada-2015-2016/)
-y la visita al CCA de Trevenque el miércoles día 21 (para los que estén inscritos)
+también que podéis
+[inscribiros en el certamen de proyectos]((https://docs.google.com/forms/d/e/1FAIpQLSfAHU--1qB37pv1Qep31vFj0TVK_aWH4Cu4mNbh1yl3HMbe-g/viewform)
 
 ##Objetivos a cubrir en esta semana
 
-1. Entender el concepto de desarrollo basado en pruebas.
-2. Comprender la necesidad del mismo para un ciclo de desarrollo cuyo final es la nube.
-3. Comprender el paper fundamental de la infraestructura virtual en
-   este proceso.
-4. Entender qué se espera del segundo hito del proyecto y comenzar a
-   trabajar en el mismo.
+1. Entender los conceptos de arquitecturas de software modernas.
+2. Entender las diferentes opciones que hay para desarrollar en la nube.
 
 ## Otros objetivos
-* Elegir herramientas de desarrollo para los lenguajes de programación
-que se usen de forma habitual.
-* Comparar las herramientas de integración continua e integrarlas con
-  un repositorio de prueba para que se ejecuten automáticamente cuando
-  se haga el *push*.
-* Comprobar que se está dado de alta en los medios de comunicación de esta asignatura: [lista de correo y GitHub]
+* Entender las diferentes aplicaciones y productos que se pueden usar
+  para crear aplicaciones en la nube.
+* Conocer las diferentes herramientas cloud que se usan en las
+  empresas y em proyectos realistas.
 * Usar de forma correcta GitHub:
   * Configurar todas las variables globales para que los commits se hagan correctamente,
   * Avatar, perfil, ciudad y universidad para fácil identificación.
-  * Usar también el modo *ssh* para conexión subiendo la clave pública a GitHub, **no** https.
-  * Aprender el uso de `.gitignore` para que no aparezcan los ficheros que no deban en `git status`
-	* Aprender la utilidad de `git status`. 
+* Aprender el uso de `.gitignore` para que no aparezcan los ficheros que no deban en `git status`.
+* Aprender la utilidad de `git status`. 
 
 ##Material para la clase
 
-* *Teoría*:
-  [Material de este primer tema](http://jj.github.io/CC/documentos/temas/Desarrollo_basado_en_pruebas)
-* *Proyecto*:
-  [segundo hito del proyecto](http://jj.github.io/CC/documentos/practicas/2.CI),
-  a entregar el 4 de noviembre de 2015. 
+* *Teoría*: Terminar el
+  [primer tema](http://jj.github.io/CC/documentos/temas/Arquitecturas_para_la_nube)
+  y repasar las nuevas actividades  [del anterior primer tema](http://jj.github.io/CC/documentos/temas/Arquitecturas_para_la_nube)
+* *Proyecto*: [primer hito del proyecto](http://jj.github.io/CC/documentos/practicas/1.Infrestructura),
+  a entregar el 31 de octubre de 2016. 
 
 ##Siguiente semana
 
-[Cuarta semana 26 de octubre ](4-semana.md)
+[Sexta semana](6-semana.md)
