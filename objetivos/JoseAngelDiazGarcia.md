@@ -1,6 +1,6 @@
 #Objetivos de Jose Angel Diaz Garcia
 
-##Objetivos a cubrir en la primera semana
+#Objetivos a cubrir en la primera semana 4/10/2016
 
 1. [x] Entender la metodología docente, de evaluación y de interacción de la asignatura.
 2. [x] Darse de alta y comprender el funcionamiento básico de GitHub y la lista de correo de la asignatura; conocer el resto de los recursos de la asignatura.
@@ -16,4 +16,30 @@
 * [x] Manejar de forma básica la línea de órdenes de Linux.
 * [x] Aprender a instalar software libre en Linux.
 * [x] Entregar el fichero de objetivos y los primeros ejercicios usando GitHub.
-* [] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
+* [x] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
+
+
+#Objetivos a cubrir en la segunda semana 10/10/2016
+
+* [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
+* [x] Entender las características de las aplicaciones que se despliegan en la nube.
+
+##Otros objetivos
+* [x] Manejar con soltura los diferentes recursos de línea de órdenes, especialmente en Linux.
+* [x] Haber entregado el hito 0 del proyecto.
+* [x] Comprender el primer hito del proyecto.
+
+
+#Objetivos a cubrir en la tercera semana 17/10/2016
+
+* [x] Conocer las arquitecturas de software en la nube de uso en la actualidad.
+* [x] Comprender el papel fundamental de la infraestructura virtual en este proceso.
+
+##Otros objetivos
+
+* [] Revisar los resultados del primer hito y entender los fallos.
+* [] Elegir herramientas de desarrollo para los lenguajes de programación que se usen de forma habitual.
+* [] Conocer qué lenguajes son de uso más habitual en la nube y aprender un uso básico de los mismos.
+
+##Ejercicios tercera semana:
+[Enlace a ejercicios de arquitecturas software.](https://github.com/joseangeldiazg/MII-CloudComputing-Ejercicios/blob/master/T1/ejerciciosT1-CC.md)
