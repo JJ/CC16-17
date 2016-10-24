@@ -29,4 +29,31 @@ Lista de objetivos de Hugo Bárzano Cruz
     
 [ ] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
 
+#Objetivos Sesión 2, semana 2 de octubre 2016
+
+[X] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
+
+[X] Entender las características de las aplicaciones que se despliegan en la nube.
+
+[X] Manejar con soltura los diferentes recursos de línea de órdenes, especialmente en Linux.
+    
+[X] Haber entregado el hito 0 del proyecto.
+   
+[ ] Comprender el primer hito del proyecto.
+
+#Objetivos Sesión 3, semana 3 de octubre 2016
+
+[X] Conocer las arquitecturas de software en la nube de uso en la actualidad.
+
+Resulto con los ejercicios del [tema1](https://hugobarzano.github.io/ProyectoCC16-17/ejerciciosT1) 
+
+[X] Comprender el paper fundamental de la infraestructura virtual en este proceso.
+
+[X] Revisar los resultados del primer hito y entender los fallos.
+
+[X] Elegir herramientas de desarrollo para los lenguajes de programación que se usen de forma habitual.
+
+[X] Conocer qué lenguajes son de uso más habitual en la nube y aprender un uso básico de los mismos.
+
+
 
