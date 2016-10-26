@@ -18,3 +18,14 @@
 - [x] Aprender a instalar software libre en Linux.
 - [x] Entregar el fichero de objetivos y los primeros ejercicios usando GitHub.
 - [x] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
+
+## Objetivos a cubrir en la segunda semana
+
+- [x] Entender la metodología docente, de evaluación y de interacción de la asignatura.
+- [x] Entender las características de las aplicaciones que se despliega
+
+### Otros Objetivos
+
+- [x] Manejar con soltura los diferentes recursos de línea de órdenes, especialmente en Linux.
+- [x] Haber entregado el hito 0 del proyecto. https://github.com/JJ/CC16-17/pull/8
+- [x] Comprender el primer hito del proyecto.
