@@ -40,3 +40,13 @@
 - [x] Revisar los resultados del primer hito (hito 0) y entender los fallos.
 - [x] Elegir herramientas de desarrollo para los lenguajes de programación que se usen de forma habitual. https://fblupi.github.io/GEventator/
 - [x] Conocer qué lenguajes son de uso más habitual en la nube y aprender un uso básico de los mismos.
+
+## Objetivos a cubrir en la cuarta semana
+
+- [x] Entender las diferentes arquitecturas de aplicaciones en la nube.
+- [x] Entender qué se espera del hito 1 del proyecto y comenzar a trabajar en el mismo.
+
+### Otros Objetivos
+
+- [x] Conocer diferentes proyectos cloud, cómo se han hecho y qué herramientas están usando.
+- [x] Conocer qué aplicaciones y servicios se usan desde estas herramientas web.
