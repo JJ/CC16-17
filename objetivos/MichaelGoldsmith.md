@@ -60,7 +60,7 @@ Vernos las caras.
 - [x] Entender las diferentes aplicaciones y productos que se pueden usar para crear aplicaciones en la nube.
 - [x] Conocer las diferentes herramientas cloud que se usan en las empresas y em proyectos realistas.
 - [x] Usar de forma correcta GitHub:
--- [x] Configurar todas las variables globales para que los commits se hagan correctamente,
--- [x] Avatar, perfil, ciudad y universidad para fácil identificación.
+	- [x] Configurar todas las variables globales para que los commits se hagan correctamente,
+	- [x] Avatar, perfil, ciudad y universidad para fácil identificación.
 - [x] Aprender el uso de .gitignore para que no aparezcan los ficheros que no deban en git status.
 - [x] Aprender la utilidad de git status.
