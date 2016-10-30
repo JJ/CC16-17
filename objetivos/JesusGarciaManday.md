@@ -50,7 +50,7 @@
 
 ##Tercera semana, 17 de octubre de 2016
 
-- [x] Conocer las arquitecturas de software en la nube de uso en la actualidad. 
+- [x] Conocer las arquitecturas de software en la nube de uso en la actualidad.  [Ejercicios](https://github.com/jmanday/EjerciciosCC16-17/tree/master/Tercera%20semana%2C%2017%20octubre%202016)
 
 - [x] Comprender el papel fundamental de la infraestructura virtual en este proceso.
 
@@ -66,7 +66,7 @@
 
 ##Cuarta semana, 24 de octubre de 2016
 
-- [x] Entender las diferentes arquitecturas de aplicaciones en la nube. [Ejercicios](https://github.com/jmanday/EjerciciosCC16-17/tree/master/Tercera%20semana%2C%2017%20octubre%202016)
+- [x] Entender las diferentes arquitecturas de aplicaciones en la nube.
 
 - [x] Entender que se espera del hito 1 del proyecto y comenzar a trabajar con el mismo.
 
