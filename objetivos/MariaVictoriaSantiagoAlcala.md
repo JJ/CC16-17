@@ -47,7 +47,7 @@
 - [x] Entender las diferentes arquitecturas de aplicaciones en la nube.
 - [x] Entender qué se espera del hito 1 del proyecto y comenzar a trabajar en el mismo.
 
-
+### Otros Objetivos
 
 - [x] Conocer diferentes proyectos cloud, cómo se han hecho y qué herramientas están usando.
 - [x] Conocer qué aplicaciones y servicios se usan desde estas herramientas web.
