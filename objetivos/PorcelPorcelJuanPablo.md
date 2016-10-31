@@ -29,3 +29,14 @@
 - [x] Manejar con soltura los diferentes recursos de línea de órdenes, especialmente en Linux.
 - [x] Haber entregado el hito 0 del proyecto.
 - [x] Comprender el primer hito del proyecto.
+
+## Objetivos a realizar en la segunda semana de clase 17 de Octubre
+
+- [x] Conocer las arquitecturas de software en la nube de uso en la actualidad [Ejercicios](https://github.com/JPPorcel/CC-Ejercicios/tree/master/Tema%201).
+- [x] Comprender el paper fundamental de la infraestructura virtual en este proceso.
+
+### Otros objetivos
+
+- [x] Revisar los resultados del primer hito y entender los fallos.
+- [x] Elegir herramientas de desarrollo para los lenguajes de programación que se usen de forma habitual.
+- [x] Conocer qué lenguajes son de uso más habitual en la nube y aprender un uso básico de los mismos.
