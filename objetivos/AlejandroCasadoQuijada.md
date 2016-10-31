@@ -50,7 +50,7 @@
 
 ## Tercera semana, 17 de octubre de 2016
 
-- [x] Conocer las arquitecturas de software en la nube de uso en la actualidad [Ejercicios](https://acasadoquijada.github.io/Cloud_Computing_2016-2017/ejerciciosTema1).
+- [x] Conocer las arquitecturas de software en la nube de uso en la actualidad [Ejercicios](https://github.com/acasadoquijada/ejercicios-CC16-17/blob/master/Ejercicios/ejerciciosTema1.md).
 
 - [x] Comprender el paper fundamental de la infraestructura virtual en este proceso.
 
@@ -62,3 +62,36 @@
 
 - [x] Conocer qué lenguajes son de uso más habitual en la nube y aprender un uso básico de los mismos.
 
+## Cuarta semana, 24 de octubre de 2016
+
+- [x] Entender las diferentes arquitecturas de aplicaciones en la nube
+
+- [x] Entender qué se espera del hito 1 del proyecto y comenzar a trabajar en el mismo.
+
+### Otros objetivos
+
+- [x] Conocer diferentes proyectos cloud, cómo se han hecho y qué herramientas están usando.
+
+- [x] Conocer qué aplicaciones y servicios se usan desde estas herramientas web.
+
+## Quinta semana
+
+- [x] Entender los conceptos de arquitecturas de software modernas.
+
+- [x] Entender las diferentes opciones que hay para desarrollar en la nube.
+
+### Otros objetivos
+
+- [x] Entender las diferentes aplicaciones y productos que se pueden usar para crear aplicaciones en la nube.
+
+- [x] Conocer las diferentes herramientas cloud que se usan en las empresas y em proyectos realistas.
+
+- [x] Usar de forma correcta GitHub:
+
+- [x] Configurar todas las variables globales para que los commits se hagan correctamente,
+
+- [x] Avatar, perfil, ciudad y universidad para fácil identificación.
+
+- [x] Aprender el uso de .gitignore para que no aparezcan los ficheros que no deban en git status.
+
+- [x] Aprender la utilidad de git status.
