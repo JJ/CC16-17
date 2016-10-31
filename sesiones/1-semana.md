@@ -31,7 +31,7 @@ trabajar en el mismo.
 * [Metodología y criterios de evaluación](../Metodología_y_criterios_de_evaluación.md).
 * [Tutorías y diferentes métodos para plantear y resolver dudas](/issues).
 * Fechas para seminarios y recuperaciones de clase y forma de los mismos (streaming, por ejemplo).
-* Alta en [GitHub](http://github.com) y [lista de correo](https://groups.google.com/d/forum/cc-ugr-2015).
+* Alta en [GitHub](http://github.com) y [lista de correo](https://groups.google.com/d/forum/cc-ugr-2016).
 * Introducción al uso de **Markdown**.
 * Introducción al software libre y la [oficina de software libre de la UGR](http://osl.ugr.es).
 * Sistema operativo de referencia en la asignatura: Linux (Ubuntu, Debian, Archlinux, Fedora, OpenSUSE, Linux Mint).

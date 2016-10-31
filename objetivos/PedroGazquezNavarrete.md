@@ -30,3 +30,33 @@
 - [x] Entregar el fichero de objetivos y los primeros ejercicios usando GitHub.
 
 - [ ] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
+
+## Segunda semana, 10 de octubre de 2016
+
+- [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
+
+- [x] Entender las características de las aplicaciones que se despliegan en la nube.
+
+
+### Otros objetivos
+
+- [x] Manejar con soltura los diferentes recursos de línea de órdenes, especialmente en Linux.
+
+- [x] Haber entregado el hito 0 del proyecto.
+
+- [x] Comprender el primer hito del proyecto.
+
+
+## Tercera semana, 17 de octubre de 2016
+
+- [x] Conocer las arquitecturas de software en la nube de uso en la actualidadg
+
+- [x] Comprender el paper fundamental de la infraestructura virtual en este proceso.
+
+### Otros objetivos
+
+- [x] Revisar los resultados del primer hito y entender los fallos.
+
+- [x] Elegir herramientas de desarrollo para los lenguajes de programación que se usen de forma habitual.
+
+- [x] Conocer qué lenguajes son de uso más habitual en la nube y aprender un uso básico de los mismos.
