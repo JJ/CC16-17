@@ -33,7 +33,7 @@
 ## Objetivos a realizar en la segunda semana de clase 17 de Octubre
 
 - [x] Conocer las arquitecturas de software en la nube de uso en la actualidad [Ejercicios](https://github.com/JPPorcel/CC-Ejercicios/tree/master/Tema%201).
-- [x] Comprender el paper fundamental de la infraestructura virtual en este proceso.
+- [x] Comprender el papel fundamental de la infraestructura virtual en este proceso.
 
 ### Otros objetivos
 
