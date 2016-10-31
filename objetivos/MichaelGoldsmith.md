@@ -44,7 +44,7 @@ Vernos las caras.
 
 ## Objetivos a cubrir en la cuarta semana
 - [x] Entender las diferentes arquitecturas de aplicaciones en la nube
-- [x] Entender qué se espera del hito 1 del proyecto y comenzar a trabajar en el mismo.
+- [x] Entender qué se espera del  [hito 1](https://goldy1992.github.io/proyecto-cloud-computing-16-17/ "hito 1") del proyecto y comenzar a trabajar en el mismo.
 
 
 ## Otros objetivos
