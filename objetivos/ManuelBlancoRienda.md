@@ -21,7 +21,7 @@
 - [x] Entender las características de las aplicaciones que se despliegan en la nube.
 - [x] Conocer las arquitecturas de software en la nube de uso en la actualidad. 
 - [x] Comprender el paper fundamental de la infraestructura virtual en este proceso.
-- [x] Realización de los ejercicios de arquitecturas de software para la nube. [Enlace](https://github.com/manuelbr/Proyecto_CC/tree/gh-pages/Ejercicios/Tema_1)
+- [x] Realización de los ejercicios de arquitecturas de software para la nube. [Enlace](https://github.com/manuelbr/ejercicios_CC/tree/master/tema_1)
 
 ####################################### Otros Objetivos
 
