@@ -1,3 +1,4 @@
+
 # Objetivos Marvin Matías Agüero Torales
 
 ## Objetivos a cubrir en la primera semana
@@ -18,3 +19,36 @@
 - [x] Aprender a instalar software libre en Linux.
 - [x] Entregar el fichero de objetivos y los primeros ejercicios usando GitHub.
 - [x] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
+
+## Objetivos a cubrir en la segunda semana
+
+- [x] Entender la metodología docente, de evaluación y de interacción de la asignatura.
+- [x] Entender las características de las aplicaciones que se despliega
+
+### Otros Objetivos
+
+- [x] Manejar con soltura los diferentes recursos de línea de órdenes, especialmente en Linux.
+- [x] Haber entregado el hito 0 del proyecto.
+- [x] Comprender el primer hito del proyecto.
+
+## Objetivos a cubrir en la tercera semana
+
+- [x] Conocer las arquitecturas de software en la nube de uso en la actualidad.
+- [x] Comprender el papel fundamental de la infraestructura virtual en este proceso.
+
+### Otros Objetivos
+
+- [x] Revisar los resultados del primer hito (hito 0) y entender los fallos.
+- [x] Elegir herramientas de desarrollo para los lenguajes de programación que se usen de forma habitual. 
+- [x] Conocer qué lenguajes son de uso más habitual en la nube y aprender un uso básico de los mismos.
+- [x] Realizar los ejercicios propuestos para afianzar los conocimientos adquiridos.
+
+## Objetivos a cubrir en la cuarta semana
+
+- [x] Entender las diferentes arquitecturas de aplicaciones en la nube.
+- [x] Entender qué se espera del hito 1 del proyecto y comenzar a trabajar en el mismo.
+
+### Otros Objetivos
+
+- [x] Conocer diferentes proyectos cloud, cómo se han hecho y qué herramientas están usando.
+- [x] Conocer qué aplicaciones y servicios se usan desde estas herramientas web.
