@@ -1,5 +1,4 @@
-
-# Objetivos Marvin Matías Agüero Torales
+# Objetivos Daniel Pérez Gázquez
 
 ## Objetivos a cubrir en la primera semana
 
@@ -33,15 +32,14 @@
 
 ## Objetivos a cubrir en la tercera semana
 
-- [x] Conocer las arquitecturas de software en la nube de uso en la actualidad.
+- [x] Conocer las arquitecturas de software en la nube de uso en la actualidad: https://drive.google.com/file/d/0B05WAJYcIHCeelZHTW5wdUJXcVU/view
 - [x] Comprender el papel fundamental de la infraestructura virtual en este proceso.
 
 ### Otros Objetivos
 
 - [x] Revisar los resultados del primer hito (hito 0) y entender los fallos.
-- [x] Elegir herramientas de desarrollo para los lenguajes de programación que se usen de forma habitual. 
+- [x] Elegir herramientas de desarrollo para los lenguajes de programación que se usen de forma habitual.
 - [x] Conocer qué lenguajes son de uso más habitual en la nube y aprender un uso básico de los mismos.
-- [x] Realizar los ejercicios propuestos para afianzar los conocimientos adquiridos.
 
 ## Objetivos a cubrir en la cuarta semana
 
