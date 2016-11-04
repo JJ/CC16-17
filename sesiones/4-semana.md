@@ -2,7 +2,7 @@
 
 Si todavía no os habéis inscrito, recordad
 también la
-[inscripción en el certamen de proyectos]((https://docs.google.com/forms/d/e/1FAIpQLSfAHU--1qB37pv1Qep31vFj0TVK_aWH4Cu4mNbh1yl3HMbe-g/viewform)
+[inscripción en el certamen de proyectos]((https://docs.google.com/forms/d/e/1FAIpQLSdfNUc5GlWPBTBi00euxjEkD1IKoH-5VOaD0zL96rQn_Q0tow/viewform)
 
 ##Objetivos a cubrir en esta semana
 
@@ -21,7 +21,7 @@ también la
 
 * *Teoría*:
   [Material de este  tema](http://jj.github.io/CC/documentos/temas/Arquitecturas_para_la_nube)
-  
+
 
 ##Siguiente semana
 

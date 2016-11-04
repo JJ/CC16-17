@@ -2,10 +2,10 @@
 
 Si todavía no os habéis inscrito, recordad
 también que podéis
-[inscribiros en el certamen de proyectos]((https://docs.google.com/forms/d/e/1FAIpQLSfAHU--1qB37pv1Qep31vFj0TVK_aWH4Cu4mNbh1yl3HMbe-g/viewform)
+[inscribiros en el certamen de proyectos]((https://docs.google.com/forms/d/e/1FAIpQLSdfNUc5GlWPBTBi00euxjEkD1IKoH-5VOaD0zL96rQn_Q0tow/viewform)
 
 Inscribirse también a la visita a Centro Cloud de Trevenque, la semana
-que viene. 
+que viene.
 
 ##Objetivos a cubrir en esta semana
 
@@ -16,19 +16,19 @@ que viene.
 
 ## Otros objetivos
 * Comprender los errores cometidos en el hito entregado el lunes y
-  volver a entregarlo en caso de error. 
+  volver a entregarlo en caso de error.
 * Conocer las diferentes ofertas y métodos de uso y creación de
-  máquinas virtuales en la nube. 
+  máquinas virtuales en la nube.
 * Instalar las herramientas de línea de órdenes de las herramientas cloud.
 * Hacerse con alguna cuenta gratuita o bonificada de cloud.
 * Aprender la mínimo de los lenguajes necesarios para trabajar en la
-  nube: Perl, Python y Ruby. 
+  nube: Perl, Python y Ruby.
 
 ##Material para la clase
 
-* *Teoría*: Comenzamos el 
+* *Teoría*: Comenzamos el
   [segundo tema](http://jj.github.io/CC/documentos/temas/Gestion_de_configuraciones)
-  
+
 
 ##Siguiente semana
 
