@@ -37,9 +37,19 @@
 
 ##Otros objetivos
 
-* [] Revisar los resultados del primer hito y entender los fallos.
-* [] Elegir herramientas de desarrollo para los lenguajes de programación que se usen de forma habitual.
-* [] Conocer qué lenguajes son de uso más habitual en la nube y aprender un uso básico de los mismos.
+* [x] Revisar los resultados del primer hito y entender los fallos.
+* [x] Elegir herramientas de desarrollo para los lenguajes de programación que se usen de forma habitual.
+* [x] Conocer qué lenguajes son de uso más habitual en la nube y aprender un uso básico de los mismos.
 
 ##Ejercicios tercera semana:
 [Enlace a ejercicios de arquitecturas software.](https://github.com/joseangeldiazg/MII-CloudComputing-Ejercicios/blob/master/T1/ejerciciosT1-CC.md)
+
+#Objetivos a cubrir en la cuarta semana 24/10/2016
+
+- [x] Entender las diferentes arquitecturas de aplicaciones en la nube.
+- [x] Entender qué se espera del hito 1 del proyecto y comenzar a trabajar en el mismo [Hito 1](https://github.com/joseangeldiazg/MII-CloudComputing/blob/master/README.md).
+
+###Otros objetivos
+
+- [x] Conocer diferentes proyectos cloud, cómo se han hecho y qué herramientas están usando.
+- [] Conocer qué aplicaciones y servicios se usan desde estas herramientas web.

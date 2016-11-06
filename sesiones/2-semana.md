@@ -2,12 +2,11 @@
 
 Agradeceré que contesteis a la [encuesta inicial](https://docs.google.com/forms/d/e/1FAIpQLSfAHU--1qB37pv1Qep31vFj0TVK_aWH4Cu4mNbh1yl3HMbe-g/viewform) si no lo habéis hecho ya. Recordad
 también la
-[inscripción en el certamen de proyectos](https://docs.google.com/forms/d/e/1FAIpQLSfAHU--1qB37pv1Qep31vFj0TVK_aWH4Cu4mNbh1yl3HMbe-g/viewform).
-
+[inscripción en el certamen de proyectos](https://docs.google.com/forms/d/e/1FAIpQLSdfNUc5GlWPBTBi00euxjEkD1IKoH-5VOaD0zL96rQn_Q0tow/viewform).
 ##Objetivos a cubrir en esta semana
 
 1. Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
-2. Entender las características de las aplicaciones que se despliegan en la nube. 
+2. Entender las características de las aplicaciones que se despliegan en la nube.
 
 ## Otros objetivos
 

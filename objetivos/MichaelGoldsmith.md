@@ -64,3 +64,5 @@ Vernos las caras.
 	- [x] Avatar, perfil, ciudad y universidad para fácil identificación.
 - [x] Aprender el uso de .gitignore para que no aparezcan los ficheros que no deban en git status.
 - [x] Aprender la utilidad de git status.
+
+(cambio para poder volver a hacer un pull request, voy a borrar luego)
