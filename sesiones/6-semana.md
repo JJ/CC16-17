@@ -30,12 +30,12 @@ que viene.
 
 ##Material para esta semana
 
-* *Teoría*: Seguimos con el 
+* *Teoría*: Seguimos con el
   [segundo tema](http://jj.github.io/CC/documentos/temas/Gestion_de_configuraciones)
 
 * *Proyecto*: Comenzamos el
-  [hito 2 del proyecto](https://jj.github.io/CC/documentos/proyecto/2.Aprovisionamiento). Se
-  entregará el *23 de noviembre*. 
+  [hito 2 del proyecto](https://jj.github.io/CC/documentos/proyecto/2.Provisionamiento). Se
+  entregará el *23 de noviembre*.
 
 ##Siguiente semana
 
