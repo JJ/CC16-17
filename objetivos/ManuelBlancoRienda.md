@@ -23,6 +23,14 @@
 - [x] Comprender el paper fundamental de la infraestructura virtual en este proceso.
 - [x] Realización de los ejercicios de arquitecturas de software para la nube. [Enlace](https://github.com/manuelbr/ejercicios_CC/tree/master/tema_1)
 
+################ Objetivos a cumplir la sexta semana (Del 7 al 23 de Noviembre)
+
+- [x] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+- [x] Documentar y mantener una plataforma virtual.
+- [x] Realizar tareas de administración en infraestructura virtual.
+- [x] Realización de la mayoría de los ejercicios de gestión de infraestructuras virtuales. [Enlace](https://github.com/manuelbr/ejercicios_CC/tree/master/tema_2)
+- [x] Realización de la corrección del script de aprovisionamiento del compañero José Luis Fernández Aguilera. [Enlace](https://github.com/okynos/ProyectoCC/blob/master/provisionamiento/correccion.md)
+
 ####################################### Otros Objetivos
 
 - [x] Tener a punto una instalación Linux para llevar a cabo las actividades de la asignatura
@@ -36,4 +44,9 @@
 - [x] Comprender el primer hito del proyecto.
 - [x] Revisar los resultados del primer hito y entender los fallos.
 - [x] Elegir herramientas de desarrollo para los lenguajes de programación que se usen de forma habitual.
-- [ ] Conocer qué lenguajes son de uso más habitual en la nube y aprender un uso básico de los mismos. 
+- [x] Conocer qué lenguajes son de uso más habitual en la nube y aprender un uso básico de los mismos. 
+- [x] Aprender lenguajes de configuración usados en infraestructuras virtuales.
+- [x] Saber cómo aplicarlos en un caso determinado.
+- [x] Conocer los sistemas de gestión de la configuración, provisionamiento y monitorización más usados hoy en día.
+
+
