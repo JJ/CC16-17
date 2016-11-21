@@ -29,6 +29,9 @@ cómo trabajan unos con otros.
 
 * Aprender nociones básicas de Ruby.
 
+* Revisar ejemplos y texto del tema nuevo que en se imparte este año
+  por primera vez. 
+
 ##Material para esta semana
 
 * *Teoría*: Terminamos el
