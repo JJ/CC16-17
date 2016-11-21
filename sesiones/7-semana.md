@@ -1,4 +1,4 @@
-#Sexta semana, comienza el 14 de noviembre de 2016
+#Séptima semana, comienza el 14 de noviembre de 2016
 
 Si todavía no os habéis inscrito, recordad
 también que podéis
@@ -6,10 +6,16 @@ también que podéis
 
 ##Objetivos de la asignatura
 
-1. Resolver problemas con el uso de los diferentes sistemas de provisionamiento en la nube. 
+1. Resolver problemas con el uso de los diferentes sistemas de
+   provisionamiento en la nube.
+
+2. Revisar la actualización al tema y hacer los ejercicios corresondientes.
 
 ##Objetivos adicionales
 
+* Instalar los nuevos sistemas de aprovisionamiento de los que se
+  habla en la nueva versión del tema y probarlos.
+  
 * Probar los provisionamientos creados en diferentes servicios.
 
 * Probar con algún sistema operativo poco habitual, como OpenBSD. 
