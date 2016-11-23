@@ -22,6 +22,15 @@
 13. [x] Entender qué se espera del hito 1 del proyecto y comenzar a trabajar en el mismo.
 14. [x] Ejercicios del tema relativo a arquitecturas cloud. [Enlace](https://github.com/okynos/EjerciciosCC/tree/master/EjerciciosTema1)
 
+## Objetivos Quinta, sexta y séptima semana
+15. [x] Aprender lenguajes de configuración usados en infraestructuras virtuales.
+16. [x] Saber cómo aplicarlos en un caso determinado.
+17. [x] Conocer los sistemas de gestión de la configuración, provisionamiento y monitorización más usados hoy en día.
+18. [x] Ejercicios del tema relativo a provisionamiento. [Enlace](https://github.com/okynos/EjerciciosCC/tree/master/EjerciciosTema2)
+19. [x] Realizar la corrección del script de provisionamiento de Manuel Blanco Rienda.
+20. [x] Aprender a usar diferentes sistemas de provisionamiento de máquinas virtuales y en la nube.
+
+
 ### Otros objetivos
 - [x] Tener a punto una instalación Linux para llevar a cabo las actividades de la asignatura.
 - [x] Usar los métodos de entrega de ejercicios propuestos para la asignatura usando GitHub. 
@@ -36,4 +45,10 @@
 - [x] Elegir herramientas de desarrollo para los lenguajes de programación que se usen de forma habitual. (Atom)
 - [x] Conocer qué lenguajes son de uso más habitual en la nube y aprender un uso básico de los mismos. (python, NodeJS, Go, Scala)
 - [x] Conocer diferentes proyectos cloud, cómo se han hecho y qué herramientas están usando. (twitter - ruby + otros)
-- [x] Conocer qué aplicaciones y servicios se usan desde estas herramientas web. (RabbitMQ, Memcached, MongoDB, ...) 
+- [x] Conocer qué aplicaciones y servicios se usan desde estas herramientas web. (RabbitMQ, Memcached, MongoDB, ...)
+- [x] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+- [x] Documentar y mantener una plataforma virtual.
+- [x] Realizar tareas de administración en infraestructura virtual.
+- [x] Provisionar con diferentes sistemas y lenguajes las mismas máquinas y entender el concepto.
+- [x] Entender el funcionamiento de plataformas de creación de máquinas como son TryStack o AWS.
+

@@ -27,7 +27,7 @@ trabajar en el mismo.
 
 * Presentación del profesor y los recursos de la asignatura: [web](http://jj.github.io/CC) y [Twitter `@iv_gii`](http://twitter.com/iv_gii).
 * [Visión general de la asignatura](http://masteres.ugr.es/ing-informatica/pages/info_academica/guias/guiasdocentes).
-* Metodología docente: [Clase inversa](http://www.tecnologiasparalaeducacion.es/la-clase-inversa-flip-classroom-tecnologias/), incluyendo eliminación de la distinción teoría/prácticas y consecuencias que trae.
+* Metodología docente: [Clase inversa](https://es.wikipedia.org/wiki/Aula_invertida), incluyendo eliminación de la distinción teoría/prácticas y consecuencias que trae.
 * [Metodología y criterios de evaluación](../Metodología_y_criterios_de_evaluación.md).
 * [Tutorías y diferentes métodos para plantear y resolver dudas](/issues).
 * Fechas para seminarios y recuperaciones de clase y forma de los mismos (streaming, por ejemplo).

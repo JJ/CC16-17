@@ -12,7 +12,7 @@ que viene.
 1. Aprender a usar diferentes sistemas de provisionamiento de máquinas
    virtuales y en la nube.
 
-2. Entender los diferentes conceptos subyacentes: servicio, estado
+2. Entender los diferentes conceptos subyacentes: servicio, estado.
 
 ##Objetivos adicionales
 
