@@ -40,3 +40,15 @@
 - [x] Revisar los resultados del primer hito y entender los fallos.
 - [x] Elegir herramientas de desarrollo para los lenguajes de programación que se usen de forma habitual.
 - [x] Conocer qué lenguajes son de uso más habitual en la nube y aprender un uso básico de los mismos.
+
+## Objetivos a realizar en la sexta semana de clase 7 de Noviembre
+
+- [x] Aprender a usar diferentes sistemas de provisionamiento de máquinas virtuales y en la nube [Ejercicios](https://github.com/JPPorcel/CC-Ejercicios/tree/master/Tema%202).
+- [x] Entender los diferentes conceptos subyacentes: servicio, estado.
+
+### Otros objetivos
+
+- [x] Tener listos diferentes sistemas donde se puedan desplegar máquinas virtuales.
+- [x] Conocer diferentes lugares donde haya imágenes de sistemas operativos listas para usar.
+- [x] Instalar y configurar diferentes sistemas de provisionamiento.
+- [x] Aprender lo suficiente de los lenguajes de programación usados por los sistemas de aprovisionamiento para entender el Domain Specific Language usado por los mismos.
