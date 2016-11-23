@@ -65,8 +65,6 @@ Vernos las caras.
 - [x] Aprender el uso de .gitignore para que no aparezcan los ficheros que no deban en git status.
 - [x] Aprender la utilidad de git status.
 
-(cambio para poder volver a hacer un pull request, voy a borrar luego)
-
 
 ## Objetivos de la asignatura y de la sexta semana
 - [x] Aprender a usar diferentes sistemas de provisionamiento de máquinas virtuales y en la nube.
