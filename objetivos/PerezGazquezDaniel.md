@@ -79,7 +79,7 @@
 ## Objetivos a cubrir en la séptima semana
 
 - [x] Resolver problemas con el uso de los diferentes sistemas de provisionamiento en la nube.
-- [x] Revisar la actualización al tema y hacer los ejercicios corresondientes: https://drive.google.com/file/d/0B05WAJYcIHCeZmFqMGlNcDFBekU/view?usp=sharing
+- [x] Revisar la actualización al tema y hacer los ejercicios corresondientes: [Ejercicios Provisionamiento] (https://drive.google.com/file/d/0B05WAJYcIHCec1pmSVVrNXprYTA/view?usp=sharing)
 
 ### Otros Objetivos
 
