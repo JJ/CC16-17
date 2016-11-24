@@ -95,3 +95,64 @@
 - [x] Aprender el uso de .gitignore para que no aparezcan los ficheros que no deban en git status.
 
 - [x] Aprender la utilidad de git status.
+
+## Sexta semana, 7 de noviembre de 2016
+
+- [x] Aprender a usar diferentes sistemas de provisionamiento de máquinas virtuales y en la nube [Ejecicios tema 2](https://github.com/acasadoquijada/ejercicios-CC16-17/blob/master/Ejercicios/ejerciciosTema2.md)
+
+- [x] Entender los diferentes conceptos subyacentes: servicio, estado.
+
+
+### Otros objetivos
+
+- [x] Tener listos diferentes sistemas donde se puedan desplegar máquinas virtuales.
+
+- [x] Conocer diferentes lugares donde haya imágenes de sistemas operativos listas para usar.[atlas](https://atlas.hashicorp.com/boxes/search)
+
+- [x] Instalar y configurar diferentes sistemas de provisionamiento.[ansible](http://docs.ansible.com/ansible/intro_installation.html) [puppet](http://www.example42.com/tutorials/PuppetTutorial/#slide-6)
+
+- [x] Aprender lo suficiente de los lenguajes de programación usados por los sistemas de aprovisionamiento para entender el Domain Specific Language usado por los mismos.
+
+
+
+## Séptima semana, comienza el 14 de noviembre de 2016
+
+- [x] Resolver problemas con el uso de los diferentes sistemas de provisionamiento en la nube.
+
+- [x] Revisar la actualización al tema y hacer los ejercicios corresondientes.[Ejecicios tema 2](https://github.com/acasadoquijada/ejercicios-CC16-17/blob/master/Ejercicios/ejerciciosTema2.md)
+
+
+### Otros objetivos
+
+- [x] Instalar los nuevos sistemas de aprovisionamiento de los que se habla en la nueva versión del tema y [probarlos](https://github.com/acasadoquijada/MyStudentBot#provisionamiento)
+
+- [ ] Probar los provisionamientos creados en diferentes servicios.
+
+- [ ] Probar con algún sistema operativo poco habitual, como OpenBSD.
+
+## Octava semana, comienza el 21 de noviembre de 2016
+
+- [x] Entender los mecanismos básicos de los hipervisores y su soporte hardware.
+
+- [x] Conocer herramientas de alto nivel que permitan trabajar con los hipervisores localmente o en la nube.
+
+- [x] Entender los diferentes niveles de definición de infraestructura y cómo trabajan unos con otros.
+
+
+### Objetivos adicionales
+
+- [x] Terminar el hito 2 del proyecto, resolviendo las dudas que surjan.
+
+- [ ] Instalar los nuevos sistemas de orquestación correspondientes al tema actual.
+
+- [x] Aprender nociones básicas de Ruby.
+
+- [ ] Revisar ejemplos y texto del tema nuevo que en se imparte este año por primera vez.
+
+
+
+
+
+
+
+
