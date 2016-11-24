@@ -74,3 +74,50 @@
 
 - [x]  Conocer qué aplicaciones y servicios se usan desde estas herramientas web.
 
+## Quinta semana, 31 de octubre de 2016
+
+- [x] Entender el concepto de Infraestructura como servicio y cómo usarlo para desplegar aplicaciones.
+- [x] Entender el concepto de infraestructura virtual y cómo describir infraestructura mediant
+
+### Otros Objetivos
+
+- [x] Comprender los errores cometidos en el hito entregado el lunes y volver a entregarlo en caso de error. https://github.com/JJ/CC16-17/pull/85
+- [x] Conocer las diferentes ofertas y métodos de uso y creación de máquinas virtuales en la nube. https://aws.amazon.com/es/education/awseducate/
+- [x] Instalar las herramientas de línea de órdenes de las herramientas cloud.
+- [x] Hacerse con alguna cuenta gratuita o bonificada de cloud.
+- [x] Aprender la mínimo de los lenguajes necesarios para trabajar en la nube: Perl, Python y Ruby.
+
+## Sexta semana, 7 de noviembre de 2016
+
+- [x] Aprender a usar diferentes sistemas de provisionamiento de máquinas virtuales y en la nube.
+- [x] Entender los diferentes conceptos subyacentes: servicio, estado
+
+### Otros Objetivos
+
+- [x] Tener listos diferentes sistemas donde se puedan desplegar máquinas virtuales.
+- [x] Conocer diferentes lugares donde haya imágenes de sistemas operativos listas para usar. https://atlas.hashicorp.com/boxes/search
+- [x] Instalar y configurar diferentes sistemas de provisionamiento.
+- [x] Aprender lo suficiente de los lenguajes de programación usados por los sistemas de aprovisionamiento para entender el Domain Specific Language usado por los mismos.
+
+## Séptima semana, comienza el 14 de noviembre de 2016
+
+- [x] Resolver problemas con el uso de los diferentes sistemas de provisionamiento en la nube.
+- [x] Revisar la actualización al tema y hacer los ejercicios corresondientes. https://fblupi.github.io/master_informatica-CC/ejercicios-2
+
+### Otros Objetivos
+
+- [ ] Instalar los nuevos sistemas de aprovisionamiento de los que se habla en la nueva versión del tema y probarlos.
+- [x] Probar los provisionamientos creados en diferentes servicios.
+- [ ] Probar con algún sistema operativo poco habitual, como OpenBSD.
+
+## Octava semana, comienza el 21 de noviembre de 2016
+
+- [x] Entender los mecanismos básicos de los hipervisores y su soporte hardware.
+- [x] Conocer herramientas de alto nivel que permitan trabajar con los hipervisores localmente o en la nube.
+- [x] Entender los diferentes niveles de definición de infraestructura y cómo trabajan unos con otros.
+
+### Otros Objetivos
+
+- [x] Terminar el hito 2 del proyecto, resolviendo las dudas que surjan. https://github.com/fblupi/GEventator/milestone/2
+- [x] Instalar los nuevos sistemas de orquestación correspondientes al tema actual. https://fblupi.github.io/master_informatica-CC/ejercicios-3
+- [x] Aprender nociones básicas de Ruby.
