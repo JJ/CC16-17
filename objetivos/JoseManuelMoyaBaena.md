@@ -23,6 +23,24 @@
 13. [x] Entender qué se espera del hito 1 del proyecto y comenzar a trabajar en el mismo.
 14. [x] Ejercicios relacionados con el tema 1. [Enlace](https://github.com/jose999/EjerciciosCC2016/tree/master/EjerciciosT1)
 
+## Objetivos Quinta semana
+15. [x] Entender el concepto de Infraestructura como servicio y cómo usarlo para desplegar aplicaciones.
+16. [x] Entender el concepto de infraestructura virtual y cómo describir infraestructura mediante software.
+
+## Objetivos Sexta semana
+17. [x] Aprender a usar diferentes sistemas de provisionamiento de máquinas virtuales y en la nube.
+18. [x] Entender los diferentes conceptos subyacentes: servicio, estado.
+
+## Objetivos Septima semana
+19. [x] Resolver problemas con el uso de los diferentes sistemas de provisionamiento en la nube.
+20. [x] Revisar la actualización al tema y hacer los ejercicios corresondientes. [Enlace](https://github.com/jose999/EjerciciosCC2016/tree/master/EjerciciosT2)
+
+## Objetivos Octava semana
+21. [x] Entender los mecanismos básicos de los hipervisores y su soporte hardware.
+22. [x] Conocer herramientas de alto nivel que permitan trabajar con los hipervisores localmente o en la nube.
+23. [x] Entender los diferentes niveles de definición de infraestructura y cómo trabajan unos con otros.
+
+
 
 ## Otros objetivos
 * [x] Tener a punto una instalación Linux para llevar a cabo las actividades de la asignatura
@@ -39,3 +57,19 @@
 * [x] Conocer qué lenguajes son de uso más habitual en la nube y aprender un uso básico de los mismos.
 * [x] Conocer diferentes proyectos cloud, cómo se han hecho y qué herramientas están usando.
 * [x] Conocer qué aplicaciones y servicios se usan desde estas herramientas web.
+* [x] Comprender los errores cometidos en el hito entregado el lunes y volver a entregarlo en caso de error.
+* [x] Conocer las diferentes ofertas y métodos de uso y creación de máquinas virtuales en la nube.
+* [x] Instalar las herramientas de línea de órdenes de las herramientas cloud.
+* [x] Hacerse con alguna cuenta gratuita o bonificada de cloud.
+* [x] Aprender la mínimo de los lenguajes necesarios para trabajar en la nube: Perl, Python y Ruby.
+* [x] Tener listos diferentes sistemas donde se puedan desplegar máquinas virtuales.
+* [x] Conocer diferentes lugares donde haya imágenes de sistemas operativos listas para usar.
+* [x] Instalar y configurar diferentes sistemas de provisionamiento.
+* [x] Aprender lo suficiente de los lenguajes de programación usados por los sistemas de aprovisionamiento para entender el Domain Specific Language usado por los mismos.
+* [x] Instalar los nuevos sistemas de aprovisionamiento de los que se habla en la nueva versión del tema y probarlos.
+* [x] Probar los provisionamientos creados en diferentes servicios.
+* [ ] Probar con algún sistema operativo poco habitual, como OpenBSD.
+* [x] Terminar el hito 2 del proyecto, resolviendo las dudas que surjan.
+* [ ] Instalar los nuevos sistemas de orquestación correspondientes al tema actual.
+* [x] Aprender nociones básicas de Ruby.
+* [x] Revisar ejemplos y texto del tema nuevo que en se imparte este año por primera vez.
