@@ -54,4 +54,42 @@
 - [x] Conocer qué aplicaciones y servicios se usan desde estas herramientas web.
 
 
+##Objetivos a cubrir en la quinta semana
+- [x] Entender el concepto de Infraestructura como servicio y cómo usarlo para desplegar aplicaciones.
+- [x] Entender el concepto de infraestructura virtual y cómo describir infraestructura mediante software.
 
+###Otros objetivos
+- [x] Comprender los errores cometidos en el hito entregado el lunes y volver a entregarlo en caso de error.
+- [x] Conocer las diferentes ofertas y métodos de uso y creación de máquinas virtuales en la nube.
+- [x] Instalar las herramientas de línea de órdenes de las herramientas cloud [aws cli](https://raw.githubusercontent.com/AythaE/Ejercicios-CC16-17/master/Gestion_de_configuraciones/imagenes/Ejercicio5%20Aws%20instancia.png).
+- [x] Hacerse con alguna cuenta gratuita o bonificada de cloud. Me he hecho con una cuenta en AWS
+- [x] Aprender la mínimo de los lenguajes necesarios para trabajar en la nube: Perl, Python y Ruby.
+
+
+##Objetivos a cubrir en la sexta semana
+- [x] Aprender a usar diferentes sistemas de provisionamiento de máquinas virtuales y en la nube. [Ejercicios del tema Gestión de Configuraciones](https://github.com/AythaE/Ejercicios-CC16-17/tree/master/Gestion_de_configuraciones)
+- [ ] Entender los diferentes conceptos subyacentes: servicio, estado.
+
+###Otros objetivos
+- [x] Tener listos diferentes sistemas donde se puedan desplegar máquinas virtuales. He usado AWS, VirtualBox y Vagrant.
+- [x] Conocer diferentes lugares donde haya imágenes de sistemas operativos listas para usar. [atlas](https://atlas.hashicorp.com/boxes/search), [vagrantbox](http://www.vagrantbox.es/)
+- [x] Instalar y configurar diferentes sistemas de provisionamiento.[Ejercicios del tema Gestión de Configuraciones](https://github.com/AythaE/Ejercicios-CC16-17/tree/master/Gestion_de_configuraciones)
+- [x] Aprender lo suficiente de los lenguajes de programación usados por los sistemas de aprovisionamiento para entender el Domain Specific Language usado por los mismos.
+
+##Objetivos a cubrir en la séptima semana
+- [x] Resolver problemas con el uso de los diferentes sistemas de provisionamiento en la nube.
+
+###Otros objetivos
+- [x] Probar los provisionamientos creados en diferentes servicios.
+- [x] Probar con algún sistema operativo poco habitual, como OpenBSD. He usado CentOS 7, un sistema que nunca había utilizado.
+
+## Objetivos a cubrir en la octava semana
+- [ ] Entender los mecanismos básicos de los hipervisores y su soporte hardware.
+- [x] Conocer herramientas de alto nivel que permitan trabajar con los hipervisores localmente o en la nube.
+- [ ] Entender los diferentes niveles de definición de infraestructura y cómo trabajan unos con otros.
+
+### Otros objetivos
+- [x] Terminar el [hito 2](https://github.com/AythaE/DeFesti/milestone/3) del proyecto, resolviendo las dudas que surjan.
+- [ ] Instalar los nuevos sistemas de orquestación correspondientes al tema actual.
+- [ ] Aprender nociones básicas de Ruby.
+- [ ] Revisar ejemplos y texto del tema nuevo que en se imparte este año por primera vez.
