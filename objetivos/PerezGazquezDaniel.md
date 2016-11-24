@@ -86,4 +86,6 @@
 - [ ] Instalar los nuevos sistemas de aprovisionamiento de los que se habla en la nueva versión del tema y probarlos.
 - [x] Probar los provisionamientos creados en diferentes servicios.
 - [ ] Probar con algún sistema operativo poco habitual, como OpenBSD.
+- [X] Probar el provisionamiento de un compañero de clase: [Juan Pablo Porcel Porcel] (https://github.com/JPPorcel/Proyecto-Elliot/issues/7)
+- [X] Corregir el provisionamiento de Ansible (había instalado una versión antigua y, tras actualizarla, había que modificar el Playbook.yml para que funcionara): [Issue] (https://github.com/NestorsImagination/Sample-Multiplayer-Shooter/issues/19)
 
