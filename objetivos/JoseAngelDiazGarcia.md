@@ -75,7 +75,7 @@
 ## Otros Objetivos
 
 - [x] Tener listos diferentes sistemas donde se puedan desplegar máquinas virtuales.
-- [x] Conocer diferentes lugares donde haya imágenes de sistemas operativos listas para usar. https://atlas.hashicorp.com/boxes/search
+- [x] Conocer diferentes lugares donde haya imágenes de sistemas operativos listas para usar. 
 - [x] Instalar y configurar diferentes sistemas de provisionamiento.
 - [x] Aprender lo suficiente de los lenguajes de programación usados por los sistemas de aprovisionamiento para entender el Domain Specific Language usado por los mismos.
 
@@ -93,11 +93,11 @@
 # Objetivos a cubrir en la octava semana 21/10/2016
 
 - [] Entender los mecanismos básicos de los hipervisores y su soporte hardware.
-- [] Conocer herramientas de alto nivel que permitan trabajar con los hipervisores localmente o en la nube.
+- [x] Conocer herramientas de alto nivel que permitan trabajar con los hipervisores localmente o en la nube.
 - [] Entender los diferentes niveles de definición de infraestructura y cómo trabajan unos con otros.
 
 ## Otros Objetivos
 
-- [] Terminar el hito 2 del proyecto, resolviendo las dudas que surjan. https://github.com/fblupi/GEventator/milestone/2
+- [x] Terminar el hito 2 del proyecto, resolviendo las dudas que surjan. 
 - [] Instalar los nuevos sistemas de orquestación correspondientes al tema actual. 
 - [] Aprender nociones básicas de Ruby.
