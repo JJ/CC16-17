@@ -57,3 +57,37 @@
 - [x] Aprender el uso de .gitignore para que no aparezcan los ficheros que no deban en git status.
 - [x] Aprender la utilidad de git status.
 
+## Objetivos sexta semana
+- [x] Aprender a usar diferentes sistemas de provisionamiento de máquinas virtuales y en la nube.
+- [x] Entender los diferentes conceptos subyacentes: servicio, estado.
+
+### Otros objetivos
+- [x] Tener listos diferentes sistemas donde se puedan desplegar máquinas virtuales.
+- [x] Conocer diferentes lugares donde haya imágenes de sistemas operativos listas para usar.
+- [x] Instalar y configurar diferentes sistemas de provisionamiento.
+- [ ] Aprender lo suficiente de los lenguajes de programación usados por los sistemas de aprovisionamiento para entender el Domain Specific Language usado por los mismos.
+
+
+## Objetivos séptima semana
+- [x] Resolver problemas con el uso de los diferentes sistemas de provisionamiento en la nube.
+- [x] Revisar la actualización al tema y hacer los ejercicios corresondientes.
+
+### Otros objetivos
+- [x] Instalar los nuevos sistemas de aprovisionamiento de los que se habla en la nueva versión del tema y probarlos.
+- [x] Probar los provisionamientos creados en diferentes servicios.
+- [x] Probar con algún sistema operativo poco habitual, como OpenBSD. **Probar esta probado pero descartado al poco**
+
+
+## Objetivos octava semana
+- [x] Entender los mecanismos básicos de los hipervisores y su soporte hardware.
+- [x] Conocer herramientas de alto nivel que permitan trabajar con los hipervisores localmente o en la nube.
+- [x] Entender los diferentes niveles de definición de infraestructura y cómo trabajan unos con otros.
+
+**Enlace a los ejercicios del tema 2:** https://github.com/pmmre/Ejercicios-CC1617/blob/master/Ejercicios/EjerciciosTema2.md
+### Otros objetivos
+- [x] Terminar el hito 2 del proyecto, resolviendo las dudas que surjan.
+- [x] Instalar los nuevos sistemas de orquestación correspondientes al tema actual.
+- [x] Aprender nociones básicas de Ruby.
+- [x] Revisar ejemplos y texto del tema nuevo que en se imparte este año por primera vez. 
+
+
