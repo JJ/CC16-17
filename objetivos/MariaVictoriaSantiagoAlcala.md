@@ -82,9 +82,9 @@
 - [x] Resolver problemas con el uso de los diferentes sistemas de provisionamiento en la nube.
 
 ### Otros objetivos
-
+- [x] Instalar los nuevos sistemas de aprovisionamiento de los que se habla en la nueva versión del tema y probarlos.
 - [x] Probar los provisionamientos creados en diferentes servicios.
-- [x] Probar con algún sistema operativo poco habitual, como OpenBSD. He usado CentOS 7, un sistema que nunca había utilizado.
+- [x] Probar con algún sistema operativo poco habitual, como OpenBSD. 
 
 ## Octava semana
 
@@ -97,6 +97,6 @@
 - [x] Terminar el hito 2 del proyecto, resolviendo las dudas que surjan.
 - [x] Instalar los nuevos sistemas de orquestación correspondientes al tema actual.
 - [x] Aprender nociones básicas de Ruby.
-- [] Revisar ejemplos y texto del tema nuevo que en se imparte este año por primera vez.
+- [x] Revisar ejemplos y texto del tema nuevo que en se imparte este año por primera vez.
 
 
