@@ -81,3 +81,45 @@ Para estos objetivos he de referirme nuevamente a las tres charlas recibidas.
 * [x] Usar de forma correcta GitHub. (este objetivo ya se completó en la realización del hito 0)
 * [x] Aprender el uso de .gitignore para que no aparezcan los ficheros que no deban en git status.
 * [x] Aprender la utilidad de git status.
+
+# Objetivos semana 31 de octubre de 2016
+
+## Objetivos
+
+* [x] Entender el concepto de infraestructura como servicio y cómo usarlo para desplegar aplicaciones.
+* [x] Entender el concepto de infraestructura virtual y cómo describir infraestructura mendiante software.
+
+## Otro objetivos
+
+* [x] Comprender los errores cometidos en el hito entregado el lunes y volver a entregarlo en caso de error.
+* [x] Conocer las diferentes ofertas y métodos de uso y creación de máquinas virtuales en la nube.
+* [x] Intalar las herramientas de lineas de órdenes de las herramientas cloud. (al orquestar las MVs con Vagrant sólo ha sido necesario instalar el plugin de AWS para dicho sistema)
+* [x] Hacerse con alguna cuenta gratuita o bonificada de cloud.
+* [x] Aprender lo mínimo de los lenguajes necesarios para trabajar en la nube: Perl, Python y Ruby.
+
+# Objetivos semana 7 de noviembre de 2016
+
+## Objetivos
+
+* [x] Aprender a usar diferentes sistemas de provisionamiento de máquinas virtuales y en la nube. (Para el hito 2 se ha realizado provisionamiento con Chef y con Ansible).
+* [x] Enteder los diferentes conceptos subyacentes: servicio, estado.
+
+## Objetivos adicionales
+
+* [x] Tener listos diferentes sistemas donde se puedan desplegar máquinas virtuales. (En mi caso he trabajando en local con VirtualBox y en remoto con AWS).
+* [x] Conocer diferenteslugares donde haya imágenes de sistemas operativos listar para usar.
+* [x] Instalar y configurar diferentes sistemas de provisionamiento. (Hecho para el hito 2).
+* [x] Aprender lo suficiente de los lenguajes de programación usados por los sistemas de aprovisionamiento para entender el Domain Specific Language usado por los mismos.
+
+# Objetivos semana 14 de noviembre de 2016
+
+## Objetivos
+
+* [x] Resolver problemas con el uso de los diferentes sistemas de provisionamiento en la nube.
+* [ ] Revisar la actualización al tema y hacer los ejercicios correspondientes. (Ya se ha realizado un provisionamiento en Ansible para el hito 2, no obstante a día de hoy quedan por realizar los ejercicios referentes a despliegue de aplicaciones con Ansible que se realizarán a la mayor brevedad posible).
+
+## Objectivos adicionales
+
+* [x] Instalar los nuevos sistemas de aprovisionamiento de los que se habla en la nueva versión del tema y probarlos.
+* [x] Probas los provisionamientos creados en diferentes servicios. (probado en local y en AWS, ambos a través de Vagrant).
+* [ ] Probar con algún sistema operativo poco habitual, como OpenBSD.
