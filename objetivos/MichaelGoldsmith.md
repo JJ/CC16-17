@@ -65,4 +65,23 @@ Vernos las caras.
 - [x] Aprender el uso de .gitignore para que no aparezcan los ficheros que no deban en git status.
 - [x] Aprender la utilidad de git status.
 
-(cambio para poder volver a hacer un pull request, voy a borrar luego)
+
+## Objetivos de la asignatura y de la sexta semana
+- [x] Aprender a usar diferentes sistemas de provisionamiento de máquinas virtuales y en la nube.
+- [x] Entender los diferentes conceptos subyacentes: servicio, estado.
+
+## Objetivos adicionales
+- [x] Tener listos diferentes sistemas donde se puedan desplegar máquinas virtuales.
+- [x] Conocer diferentes lugares donde haya imágenes de sistemas operativos listas para usar.
+- [x] Instalar y configurar diferentes sistemas de provisionamiento.
+- [x] Aprender lo suficiente de los lenguajes de programación usados por los sistemas de aprovisionamiento para entender el Domain Specific Language usado por los mismos.
+
+## Objetivos de la asignatura y de la séptima semana
+- [x] Resolver problemas con el uso de los diferentes sistemas de provisionamiento en la nube.
+- [x] Revisar la actualización al tema y hacer los ejercicios corresondientes.
+
+## Objetivos adicionales
+- [x] Instalar los nuevos sistemas de aprovisionamiento de los que se habla en la nueva versión del tema y probarlos.
+- [x] Probar los provisionamientos creados en diferentes servicios.
+- [x] Probar con algún sistema operativo poco habitual, como OpenBSD.
+
