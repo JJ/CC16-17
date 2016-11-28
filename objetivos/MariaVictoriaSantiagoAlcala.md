@@ -99,4 +99,19 @@
 - [x] Aprender nociones básicas de Ruby.
 - [x] Revisar ejemplos y texto del tema nuevo que en se imparte este año por primera vez.
 
+## Novena semana
+
+- [] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+
+- [] Documentar y mantener una plataforma virtual.
+
+- [] Realizar tareas de administración en infraestructura virtual.
+
+
+### Otros objetivos
+
+- [x] Aprender lenguajes de configuración usados en infraestructuras virtuales.
+- [] Saber cómo aplicarlos en un caso determinado.
+- [x] Conocer los sistemas de orquestación de máquinas virtuales.
+
 
