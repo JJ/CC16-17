@@ -27,8 +27,8 @@ Granada Geek.
 * *Teoría*: Comenzamos el
   [tema sobre configuración en la nube](http://jj.github.io/CC/documentos/temas/Automatizando_cloud.md).
 
-* *Proyecto*: Comenzamos el [hito 3 del proyecto](). se
-  entregará el próximo miércoles *7 de diciembre*, durante esta semana.
+* *Proyecto*: Comenzamos el [hito 3 del proyecto](http://jj.github.io/CC/documentos/proyecto/3.Orquestacion.md). se
+  entregará el próximo lunes *12 de diciembre*.
 
 ##Siguiente semana
 
