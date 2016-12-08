@@ -49,7 +49,7 @@
 - [x] Entender las diferentes arquitecturas de aplicaciones en la nube.
 - [x] Entender qué se espera del hito 1 del proyecto y comenzar a trabajar en el mismo [Hito 1](https://github.com/joseangeldiazg/MII-CloudComputing/blob/master/README.md).
 
-### Otros objetivos
+## Otros objetivos
 
 - [x] Conocer diferentes proyectos cloud, cómo se han hecho y qué herramientas están usando.
 - [x] Conocer qué aplicaciones y servicios se usan desde estas herramientas web.
@@ -61,13 +61,13 @@
 
 ##Otros Objetivos
 
-- [x] Comprender los errores cometidos en el hito entregado el lunes y volver a entregarlo en caso de error. https://github.com/JJ/CC16-17/pull/85
-- [x] Conocer las diferentes ofertas y métodos de uso y creación de máquinas virtuales en la nube. https://aws.amazon.com/es/education/awseducate/
+- [x] Comprender los errores cometidos en el hito entregado el lunes y volver a entregarlo en caso de error.
+- [x] Conocer las diferentes ofertas y métodos de uso y creación de máquinas virtuales en la nube.
 - [x] Instalar las herramientas de línea de órdenes de las herramientas cloud.
 - [x] Hacerse con alguna cuenta gratuita o bonificada de cloud.
-- [] Aprender la mínimo de los lenguajes necesarios para trabajar en la nube: Perl, Python y Ruby.
+- [x] Aprender la mínimo de los lenguajes necesarios para trabajar en la nube: Perl, Python y Ruby.
 
-# Objetivos a cubrir en la sexta semana 7/10/2016
+# Objetivos a cubrir en la sexta semana 7/11/2016
 
 - [x] Aprender a usar diferentes sistemas de provisionamiento de máquinas virtuales y en la nube.
 - [x] Entender los diferentes conceptos subyacentes: servicio, estado
@@ -75,11 +75,11 @@
 ## Otros Objetivos
 
 - [x] Tener listos diferentes sistemas donde se puedan desplegar máquinas virtuales.
-- [x] Conocer diferentes lugares donde haya imágenes de sistemas operativos listas para usar. 
+- [x] Conocer diferentes lugares donde haya imágenes de sistemas operativos listas para usar.
 - [x] Instalar y configurar diferentes sistemas de provisionamiento.
 - [x] Aprender lo suficiente de los lenguajes de programación usados por los sistemas de aprovisionamiento para entender el Domain Specific Language usado por los mismos.
 
-# Objetivos a cubrir en la séptima semana 14/10/2016
+# Objetivos a cubrir en la séptima semana 14/11/2016
 
 - [x] Resolver problemas con el uso de los diferentes sistemas de provisionamiento en la nube.
 - [x] Revisar la actualización al tema y hacer los ejercicios corresondientes.
@@ -90,7 +90,11 @@
 - [x] Probar los provisionamientos creados en diferentes servicios.
 - [ ] Probar con algún sistema operativo poco habitual, como OpenBSD.
 
-# Objetivos a cubrir en la octava semana 21/10/2016
+## Ejercicios séptima semana:
+
+[Ejercicios de provisionamiento](https://github.com/joseangeldiazg/MII-CloudComputing-Ejercicios/blob/master/T2/ejerciciosT2-CC.md)
+
+# Objetivos a cubrir en la octava semana 21/11/2016
 
 - [] Entender los mecanismos básicos de los hipervisores y su soporte hardware.
 - [x] Conocer herramientas de alto nivel que permitan trabajar con los hipervisores localmente o en la nube.
@@ -98,6 +102,22 @@
 
 ## Otros Objetivos
 
-- [x] Terminar el hito 2 del proyecto, resolviendo las dudas que surjan. 
-- [] Instalar los nuevos sistemas de orquestación correspondientes al tema actual. 
+- [x] Terminar el hito 2 del proyecto, resolviendo las dudas que surjan.
+- [] Instalar los nuevos sistemas de orquestación correspondientes al tema actual.
 - [] Aprender nociones básicas de Ruby.
+
+# Objetivos a cumplir en la novena semana 28/11/2016
+
+- [] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+- [] Documentar y mantener una plataforma virtual.
+- [] Realizar tareas de administración en infraestructura virtual.
+
+## Objetivos específicos
+
+- [] Aprender lenguajes de configuración usados en infraestructuras virtuales.
+- [] Saber cómo aplicarlos en un caso determinado.
+- [x] Conocer los sistemas de orquestación de máquinas virtuales.
+
+## Ejercicios novena semana:
+
+[Ejercicios de orquestación de máquinas virtuales](https://github.com/joseangeldiazg/MII-CloudComputing-Ejercicios/blob/master/T3/ejerciciosT3-CC.md)
