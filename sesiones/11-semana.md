@@ -16,7 +16,7 @@
 
 ##Material para esta semana
 
-* *Teoría*: 
+* *Teoría*: Comenzamos a hablar de [virtualización ligera usando contenedores](http://jj.github.io/CC/documentos/temas/Contenedores)
 
 * *Proyecto*: El primer día de la semana se tendría que haber entregado el [hito 3 del proyecto](http://jj.github.io/CC/documentos/proyecto/3.Orquestacion). 
 
