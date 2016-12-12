@@ -12,7 +12,7 @@
 
 ### Otros objetivos
 - [x] Tener a punto una instalación Linux para llevar a cabo las actividades de la asignatura
-- [x] Usar los métodos de entrega de ejercicios propuestos para la asignatura usando GitHub. 
+- [x] Usar los métodos de entrega de ejercicios propuestos para la asignatura usando GitHub.
 - [x] Manejar de forma básica la línea de órdenes de Linux.
 - [x] Aprender a instalar software libre en Linux.
 - [x] Entregar el fichero de objetivos y los primeros ejercicios en el siguiente [repositorio](https://github.com/AythaE/Ejercicios-CC16-17.git) usando GitHub.
@@ -20,45 +20,45 @@
 
 
 
-##Objetivos a cubrir en la segunda semana
+## Objetivos a cubrir en la segunda semana
 
 - [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
 - [x] Entender las características de las aplicaciones que se despliegan en la nube.
 
-###Otros objetivos
+### Otros objetivos
 - [x]  Manejar con soltura los diferentes recursos de línea de órdenes, especialmente en Linux.
 - [x] Haber entregado el hito 0 del proyecto https://github.com/JJ/CC16-17/pull/37.
 - [x] Comprender el primer hito del proyecto.
 
 
 
-##Objetivos a cubrir en la tercera semana
+## Objetivos a cubrir en la tercera semana
 
 - [x] Conocer las arquitecturas de software en la nube de uso en la actualidad [Ejercicios tema Arquitecturas para la nube](https://github.com/AythaE/Ejercicios-CC16-17/tree/master/Arquitecturas_para_la_nube).
 - [x] Comprender el paper fundamental de la infraestructura virtual en este proceso.
 
-###Otros objetivos
+### Otros objetivos
 
 - [x] Revisar los resultados del primer hito y entender los fallos.
 - [x] Elegir herramientas de desarrollo para los lenguajes de programación que se usen de forma habitual.
 - [ ]  Conocer qué lenguajes son de uso más habitual en la nube y aprender un uso básico de los mismos.
 
 
-##Objetivos a cubrir en la cuarta semana
+## Objetivos a cubrir en la cuarta semana
 - [x] Entender las diferentes arquitecturas de aplicaciones en la nube.
 - [x] Entender qué se espera del hito 1 del proyecto y comenzar a trabajar en el mismo [Hito 1](https://aythae.github.io/DeFesti/descripcion).
 
-###Otros objetivos
+### Otros objetivos
 
 - [x] Conocer diferentes proyectos cloud, cómo se han hecho y qué herramientas están usando.
 - [x] Conocer qué aplicaciones y servicios se usan desde estas herramientas web.
 
 
-##Objetivos a cubrir en la quinta semana
+## Objetivos a cubrir en la quinta semana
 - [x] Entender el concepto de Infraestructura como servicio y cómo usarlo para desplegar aplicaciones.
 - [x] Entender el concepto de infraestructura virtual y cómo describir infraestructura mediante software.
 
-###Otros objetivos
+### Otros objetivos
 - [x] Comprender los errores cometidos en el hito entregado el lunes y volver a entregarlo en caso de error.
 - [x] Conocer las diferentes ofertas y métodos de uso y creación de máquinas virtuales en la nube.
 - [x] Instalar las herramientas de línea de órdenes de las herramientas cloud [aws cli](https://raw.githubusercontent.com/AythaE/Ejercicios-CC16-17/master/Gestion_de_configuraciones/imagenes/Ejercicio5%20Aws%20instancia.png).
@@ -66,20 +66,20 @@
 - [x] Aprender la mínimo de los lenguajes necesarios para trabajar en la nube: Perl, Python y Ruby.
 
 
-##Objetivos a cubrir en la sexta semana
+## Objetivos a cubrir en la sexta semana
 - [x] Aprender a usar diferentes sistemas de provisionamiento de máquinas virtuales y en la nube. [Ejercicios del tema Gestión de Configuraciones](https://github.com/AythaE/Ejercicios-CC16-17/tree/master/Gestion_de_configuraciones)
 - [ ] Entender los diferentes conceptos subyacentes: servicio, estado.
 
-###Otros objetivos
+### Otros objetivos
 - [x] Tener listos diferentes sistemas donde se puedan desplegar máquinas virtuales. He usado AWS, VirtualBox y Vagrant.
 - [x] Conocer diferentes lugares donde haya imágenes de sistemas operativos listas para usar. [atlas](https://atlas.hashicorp.com/boxes/search), [vagrantbox](http://www.vagrantbox.es/)
 - [x] Instalar y configurar diferentes sistemas de provisionamiento.[Ejercicios del tema Gestión de Configuraciones](https://github.com/AythaE/Ejercicios-CC16-17/tree/master/Gestion_de_configuraciones)
 - [x] Aprender lo suficiente de los lenguajes de programación usados por los sistemas de aprovisionamiento para entender el Domain Specific Language usado por los mismos.
 
-##Objetivos a cubrir en la séptima semana
+## Objetivos a cubrir en la séptima semana
 - [x] Resolver problemas con el uso de los diferentes sistemas de provisionamiento en la nube.
 
-###Otros objetivos
+### Otros objetivos
 - [x] Probar los provisionamientos creados en diferentes servicios.
 - [x] Probar con algún sistema operativo poco habitual, como OpenBSD. He usado CentOS 7, un sistema que nunca había utilizado.
 
@@ -93,3 +93,19 @@
 - [ ] Instalar los nuevos sistemas de orquestación correspondientes al tema actual.
 - [ ] Aprender nociones básicas de Ruby.
 - [ ] Revisar ejemplos y texto del tema nuevo que en se imparte este año por primera vez.
+
+## Objetivos a cubrir en la novena semana
+- [x] Entender el funcionamiento básico de los sistemas de gestión de recursos en la nube.
+- [x] Asimilar los conceptos relacionados con tales sistemas.
+
+### Otros objetivos
+- [x] Instalarse los diferentes clientes de líneas de órdenes de los sistemas en la nube a los que se tenga acceso.
+
+## Objetivos a cubrir en la décima semana
+- [x] Entender los recursos para automatización de actividades en la nube
+- [x] Entender el concepto de infraestructura definida por software.
+
+
+### Otros objetivos
+- [x] Trabajar con los diferentes sistemas de línea de órdenes existentes.
+- [ ] Probar diferentes proveedores de nube y ver las posibilidades que ofrecen.
