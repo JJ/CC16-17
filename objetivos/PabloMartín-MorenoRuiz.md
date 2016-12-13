@@ -90,4 +90,29 @@
 - [x] Aprender nociones básicas de Ruby.
 - [x] Revisar ejemplos y texto del tema nuevo que en se imparte este año por primera vez. 
 
+## Objetivos novena semana
+- [x] Entender el funcionamiento básico de los sistemas de gestión de recursos en la nube.
+- [x] Asimilar los conceptos relacionados con tales sistemas.
+
+### Otros objetivos
+- [x] Instalarse los diferentes clientes de líneas de órdenes de los sistemas en la nube a los que se tenga acceso. 
+
+## Objetivos decima semana
+- [x] Entender los recursos para automatización de actividades en la nube
+- [x] Entender el concepto de infraestructura definida por software.
+
+### Otros objetivos
+- [x] Trabajar con los diferentes sistemas de línea de órdenes existentes.
+- [x] Probar diferentes proveedores de nube y ver las posibilidades que ofrecen.
+
+## Objetivos onceava semana
+- [x] Entender el concepto de contenedor.
+- [x] Comprender su encaje en la infraestructura virtual.
+
+
+**Enlace a los ejercicios del tema 3:** https://github.com/pmmre/Ejercicios-CC1617/blob/master/Ejercicios/EjerciciosTema3.md
+### Otros objetivos
+- [ ] Instalar lxc en Linux y probar los ejemplos.
+- [ ] Conocer sistemas operativos "ligeros" especializados para su uso en contenedores tales como Alpine, Plamo u otros.
+
 
