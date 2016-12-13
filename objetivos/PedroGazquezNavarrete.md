@@ -121,3 +121,21 @@
 - [x] Terminar el hito 2 del proyecto, resolviendo las dudas que surjan. https://github.com/fblupi/GEventator/milestone/2
 - [x] Instalar los nuevos sistemas de orquestación correspondientes al tema actual. https://fblupi.github.io/master_informatica-CC/ejercicios-3
 - [x] Aprender nociones básicas de Ruby.
+
+## Novena semana
+- [x] Entender el funcionamiento básico de los sistemas de gestión de recursos en la nube.
+- [x] Asimilar los conceptos relacionados con tales sistemas.
+
+### Otros Objetivos
+
+- [x] Instalarse los diferentes clientes de líneas de órdenes de los sistemas en la nube a los que se tenga acceso.
+
+## Décima semana
+
+- [x] Entender los recursos para automatización de actividades en la nube
+- [x] Entender el concepto de infraestructura definida por software.
+
+### Otros Objetivos
+
+- [x] Trabajar con los diferentes sistemas de línea de órdenes existentes.
+- [x] Probar diferentes proveedores de nube y ver las posibilidades que ofrecen.
