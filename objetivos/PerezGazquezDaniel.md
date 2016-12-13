@@ -89,3 +89,38 @@
 - [X] Probar el provisionamiento de un compañero de clase: [Juan Pablo Porcel Porcel] (https://github.com/JPPorcel/Proyecto-Elliot/issues/7)
 - [X] Corregir el provisionamiento de Ansible (había instalado una versión antigua y, tras actualizarla, había que modificar el Playbook.yml para que funcionara): [Issue] (https://github.com/NestorsImagination/Sample-Multiplayer-Shooter/issues/19)
 
+## Objetivos a cubrir en la octava semana
+
+- [X] Entender los mecanismos básicos de los hipervisores y su soporte hardware.
+- [X] Conocer herramientas de alto nivel que permitan trabajar con los hipervisores localmente o en la nube. 
+- [X] Entender los diferentes niveles de definición de infraestructura y cómo trabajan unos con otros.
+- [X] Ejercicios del tema de Orquestación: [Ejercicios Orquestación] (https://drive.google.com/file/d/0B05WAJYcIHCeQ0tlQ3V0bTBheEU/view?usp=sharing)
+
+### Otros Objetivos
+
+- [X] Terminar el hito 2 del proyecto, resolviendo las dudas que surjan. 
+- [X] Instalar los nuevos sistemas de orquestación correspondientes al tema actual.
+- [X] Aprender nociones básicas de Ruby.
+- [X] Revisar ejemplos y texto del tema nuevo que en se imparte este año por primera vez. 
+
+## Objetivos a cubrir en la novena semana
+
+- [X] Entender el funcionamiento básico de los sistemas de gestión de recursos en la nube.
+- [X] Asimilar los conceptos relacionados con tales sistemas.
+
+### Otros Objetivos
+
+- [ ] Instalarse los diferentes clientes de líneas de órdenes de los sistemas en la nube a los que se tenga acceso.
+
+## Objetivos a cubrir en la décima semana
+
+- [X] Entender los recursos para automatización de actividades en la nube
+- [X] Entender el concepto de infraestructura definida por software.
+- [X] Ejercicios del tema de Configuración en la nube: [Ejercicios Automatizando Cloud] (https://drive.google.com/file/d/0B05WAJYcIHCeazJqMFBqN2VDWUE/view?usp=sharing)
+
+### Otros Objetivos
+
+- [ ] Trabajar con los diferentes sistemas de línea de órdenes existentes.
+- [ ] Probar diferentes proveedores de nube y ver las posibilidades que ofrecen. 
+
+
