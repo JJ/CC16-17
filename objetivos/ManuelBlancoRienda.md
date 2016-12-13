@@ -23,13 +23,24 @@
 - [x] Comprender el paper fundamental de la infraestructura virtual en este proceso.
 - [x] Realización de los ejercicios de arquitecturas de software para la nube. [Enlace](https://github.com/manuelbr/ejercicios_CC/tree/master/tema_1)
 
-################ Objetivos a cumplir la sexta semana (Del 7 al 23 de Noviembre)
+################ Objetivos a cumplir la sexta y séptima semana (Del 7 al 23 de Noviembre)
 
 - [x] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
 - [x] Documentar y mantener una plataforma virtual.
 - [x] Realizar tareas de administración en infraestructura virtual.
 - [x] Realización de la mayoría de los ejercicios de gestión de infraestructuras virtuales. [Enlace](https://github.com/manuelbr/ejercicios_CC/tree/master/tema_2)
 - [x] Realización de la corrección del script de aprovisionamiento del compañero José Luis Fernández Aguilera. [Enlace](https://github.com/okynos/ProyectoCC/blob/master/provisionamiento/correccion.md)
+
+################ Objetivos a cumplir la octava y novena semana (Del 23 de Noviembre al 12 de Diciembre)
+
+- [x] Entender los mecanismos básicos de los hipervisores y su soporte hardware.
+- [x] Conocer herramientas de alto nivel que permitan trabajar con los hipervisores localmente o en la nube.
+- [x] Entender los diferentes niveles de definición de infraestructura y cómo trabajan unos con otros.
+- [x] Entender el funcionamiento básico de los sistemas de gestión de recursos en la nube.
+- [x] Asimilar los conceptos relacionados con tales sistemas.
+- [x] Realización de los ejercicios del tema 3: parte uno y dos -> [Ejercicios Tema 3 parte 1](https://github.com/manuelbr/ejercicios_CC/tree/master/tema_3) y [Ejercicios Tema 3 parte 2](https://github.com/manuelbr/ejercicios_CC/tree/master/tema_3/Automatizacion_de_tareas_en_la_nube).
+- [x] Realización de la corrección del script de orquestación del compañero José Luis Fernández Aguilera. [Enlace](https://github.com/okynos/ProyectoCC/blob/master/orquestacion/correccion.md).
+- [x] Realización del hito 3, tal y como puede verse en el fichero de documentación: [Enlace](https://github.com/manuelbr/Proyecto_CC/blob/master/README.md).
 
 ####################################### Otros Objetivos
 
@@ -48,5 +59,19 @@
 - [x] Aprender lenguajes de configuración usados en infraestructuras virtuales.
 - [x] Saber cómo aplicarlos en un caso determinado.
 - [x] Conocer los sistemas de gestión de la configuración, provisionamiento y monitorización más usados hoy en día.
+- [x] Terminar el hito 2 del proyecto, resolviendo las dudas que surjan.
+- [x] Instalar los nuevos sistemas de orquestación correspondientes al tema actual.
+- [x] Aprender nociones básicas de Ruby. (Realizado obligatoriamente para comprender el funcionamiento de los "Vagrantfile")
+- [x] Revisar ejemplos y texto del tema nuevo que en se imparte este año por primera vez.
+- [ ] Instalarse los diferentes clientes de líneas de órdenes de los sistemas en la nube a los que se tenga acceso. 
+
+    
+
+    
+
+    
+
+    
+
 
 

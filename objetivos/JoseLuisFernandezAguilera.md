@@ -30,6 +30,14 @@
 19. [x] Realizar la corrección del script de provisionamiento de Manuel Blanco Rienda.
 20. [x] Aprender a usar diferentes sistemas de provisionamiento de máquinas virtuales y en la nube.
 
+## Objetivos octava y novena semana
+21. [x] Entender los mecanismos básicos de los hipervisores y su soporte hardware.
+22. [x] Conocer herramientas de alto nivel que permitan trabajar con los hipervisores localmente o en la nube.
+23. [x] Entender los diferentes niveles de definición de infraestructura y cómo trabajan unos con otros.
+24. [x] Entender el funcionamiento básico de los sistemas de gestión de recursos en la nube.
+25. [x] Asimilar los conceptos relacionados con tales sistemas.
+26. [x] Ejercicios del tema relativo a orquestación y automatización cloud. [Enlace Tema 3](https://github.com/okynos/EjerciciosCC/tree/master/EjerciciosTema3) [Enlace Tema 4](https://github.com/okynos/EjerciciosCC/tree/master/EjerciciosTema4)
+
 
 ### Otros objetivos
 - [x] Tener a punto una instalación Linux para llevar a cabo las actividades de la asignatura.
@@ -51,4 +59,9 @@
 - [x] Realizar tareas de administración en infraestructura virtual.
 - [x] Provisionar con diferentes sistemas y lenguajes las mismas máquinas y entender el concepto.
 - [x] Entender el funcionamiento de plataformas de creación de máquinas como son TryStack o AWS.
+- [x] Terminar el hito 2 del proyecto, resolviendo las dudas que surjan.
+- [x] Instalar los nuevos sistemas de orquestación correspondientes al tema actual.
+- [x] Aprender nociones básicas de Ruby.
+- [x] Revisar ejemplos y texto del tema nuevo que en se imparte este año por primera vez.
+- [x] Instalarse los diferentes clientes de líneas de órdenes de los sistemas en la nube a los que se tenga acceso. 
 
