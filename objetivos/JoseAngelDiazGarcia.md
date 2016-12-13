@@ -96,21 +96,21 @@
 
 # Objetivos a cubrir en la octava semana 21/11/2016
 
-- [] Entender los mecanismos básicos de los hipervisores y su soporte hardware.
+- [x] Entender los mecanismos básicos de los hipervisores y su soporte hardware.
 - [x] Conocer herramientas de alto nivel que permitan trabajar con los hipervisores localmente o en la nube.
 - [] Entender los diferentes niveles de definición de infraestructura y cómo trabajan unos con otros.
 
 ## Otros Objetivos
 
 - [x] Terminar el hito 2 del proyecto, resolviendo las dudas que surjan.
-- [] Instalar los nuevos sistemas de orquestación correspondientes al tema actual.
-- [] Aprender nociones básicas de Ruby.
+- [x] Instalar los nuevos sistemas de orquestación correspondientes al tema actual.
+- [x] Aprender nociones básicas de Ruby.
 
 # Objetivos a cumplir en la novena semana 28/11/2016
 
 - [] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
-- [] Documentar y mantener una plataforma virtual.
-- [] Realizar tareas de administración en infraestructura virtual.
+- [x] Documentar y mantener una plataforma virtual.
+- [x] Realizar tareas de administración en infraestructura virtual.
 
 ## Objetivos específicos
 
@@ -121,3 +121,14 @@
 ## Ejercicios novena semana:
 
 [Ejercicios de orquestación de máquinas virtuales](https://github.com/joseangeldiazg/MII-CloudComputing-Ejercicios/blob/master/T3/ejerciciosT3-CC.md)
+
+# Objetivos a cubrir en la décima semana 5/12/2016
+
+- [x] Entender los recursos para automatización de actividades en la nube
+- [x] Entender el concepto de infraestructura definida por software.
+
+### Otros Objetivos
+
+- [x] Trabajar con los diferentes sistemas de línea de órdenes existentes.
+- [] Probar diferentes proveedores de nube y ver las posibilidades que ofrecen.
+
