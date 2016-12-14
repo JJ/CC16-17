@@ -116,10 +116,48 @@ Para estos objetivos he de referirme nuevamente a las tres charlas recibidas.
 ## Objetivos
 
 * [x] Resolver problemas con el uso de los diferentes sistemas de provisionamiento en la nube.
-* [ ] Revisar la actualización al tema y hacer los ejercicios correspondientes. (Ya se ha realizado un provisionamiento en Ansible para el hito 2, no obstante a día de hoy quedan por realizar los ejercicios referentes a despliegue de aplicaciones con Ansible que se realizarán a la mayor brevedad posible).
+* [x] Revisar la actualización al tema y hacer los ejercicios correspondientes.
 
 ## Objectivos adicionales
 
 * [x] Instalar los nuevos sistemas de aprovisionamiento de los que se habla en la nueva versión del tema y probarlos.
 * [x] Probas los provisionamientos creados en diferentes servicios. (probado en local y en AWS, ambos a través de Vagrant).
-* [ ] Probar con algún sistema operativo poco habitual, como OpenBSD.
+* [x] Probar con algún sistema operativo poco habitual, como OpenBSD.
+
+# Objetivos semana 21 de noviembre de 2016
+
+## Objetivos
+
+* [x] Entender los mecanismos básicos de los hipervisores y su soporte hardware.
+* [x] Conocer herramientas de alto nivel que permitan trabajar con los hipervisores localmente o en la nube.
+* [x] Entender los diferentes niveles de definición de infraestructura y cómo trabajan unos con otros.
+
+## Objetivos adicionales
+
+* [x] Terminar el hito 2 del proyecto, resolviendo las dudas que surjan.
+* [ ] Instalar los nuevos sistemas de orquestación correspondientes al tema actual.
+* [x] Aprender nociones básicas de Ruby.
+* [x] Revisar ejemplos y texto del tema nuevo que en se imparte este año por primera vez.
+
+# Objetivos semana 28 de noviembre de 2016
+
+##Objetivos de la asignatura
+
+* [x] Entender el funcionamiento básico de los sistemas de gestión de recursos en la nube.
+* [x] Asimilar los conceptos relacionados con tales sistemas.
+
+##Objetivos adicionales
+
+* [x] Instalarse los diferentes clientes de líneas de órdenes de los sistemas en la nube a los que se tenga acceso.
+
+# Objetivos semana 5 de diciembre de 2016
+
+##Objetivos de la asignatura
+
+* [x] Entender los recursos para automatización de actividades en la nube.
+* [x] Entender el concepto de infraestructura definida por software.
+
+##Objetivos adicionales
+
+* [ ] Trabajar con los diferentes sistemas de línea de órdenes existentes.
+* [x] Probar diferentes proveedores de nube y ver las posibilidades que ofrecen (en mi caso ha sido sólo AWS).
