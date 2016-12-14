@@ -122,5 +122,6 @@
 
 - [ ] Trabajar con los diferentes sistemas de línea de órdenes existentes.
 - [ ] Probar diferentes proveedores de nube y ver las posibilidades que ofrecen. 
+- [X] Probada con exito la entrega del Hito 3 de Juan Pablo Porcel Porcel: [Entrega Hito 3] (https://github.com/JPPorcel/Proyecto-Elliot/issues/10)
 
 
