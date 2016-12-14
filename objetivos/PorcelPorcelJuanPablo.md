@@ -109,6 +109,16 @@
 
 - [x] Instalarse los diferentes clientes de líneas de órdenes de los sistemas en la nube a los que se tenga acceso.
 
+## Objetivos a realizar en la décima semana de clase 5 de Diciembre
+
+- [x] Entender los recursos para automatización de actividades en la nube
+- [x] Entender el concepto de infraestructura definida por software. 
+
+### Otros objetivos
+
+- [x] Trabajar con los diferentes sistemas de línea de órdenes existentes.
+- [x] Probar diferentes proveedores de nube y ver las posibilidades que ofrecen. 
+
 ## Objetivos a realizar en la undécima semana de clase 12 de Diciembre
 
 - [] Entender el concepto de contenedor.
