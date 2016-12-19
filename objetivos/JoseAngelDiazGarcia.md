@@ -130,5 +130,18 @@
 ### Otros Objetivos
 
 - [x] Trabajar con los diferentes sistemas de línea de órdenes existentes.
-- [] Probar diferentes proveedores de nube y ver las posibilidades que ofrecen.
+- [x] Probar diferentes proveedores de nube y ver las posibilidades que ofrecen.
 
+#Objetivos a cubrir en la undecima semana 12/12/2016
+
+
+
+- [x] Entender el concepto de contenedor.
+- [x] Comprender su encaje en la infraestructura virtual.
+
+
+### Otros Objetivos
+
+- [] Instalar lxc en Linux y probar los ejemplos.
+
+- [] Conocer sistemas operativos "ligeros" especializados para su uso en contenedores tales como Alpine, Plamo u otros.
