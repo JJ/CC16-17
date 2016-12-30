@@ -130,3 +130,4 @@
 
 - [x] Instalar lxc en Linux y probar los ejemplos.
 - [x] Conocer sistemas operativos "ligeros" especializados para su uso en contenedores tales como Alpine, Plamo u otros.
+- [x] Dockerfile/docker-machine
