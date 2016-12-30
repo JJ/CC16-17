@@ -117,3 +117,13 @@
 
 - [x] Trabajar con los diferentes sistemas de línea de órdenes existentes.
 - [x] Probar diferentes proveedores de nube y ver las posibilidades que ofrecen.
+
+## Objetivos a cubrir en la undécima semana
+
+- [x] Entender el concepto de contenedor.
+- [x] Comprender su encaje en la infraestructura virtual.
+
+### Otros Objetivos
+
+- [x] Instalar lxc en Linux y probar los ejemplos. https://fblupi.github.io/master_informatica-CC/ejercicios-5
+- [x] Conocer sistemas operativos "ligeros" especializados para su uso en contenedores tales como Alpine, Plamo u otros. https://fblupi.github.io/master_informatica-CC/ejercicios-5
