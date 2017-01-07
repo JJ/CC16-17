@@ -153,4 +153,34 @@
 
 - [x] Instalarse los diferentes clientes de líneas de órdenes de los sistemas en la nube a los que se tenga acceso.
 
+##Décima semana, 5 de diciembre de 2016
+
+- [x] Entender los recursos para automatización de actividades en la nube
+
+- [x] Entender el concepto de infraestructura definida por software.
+
+
+### Objetivos adicionales
+
+- [x] Trabajar con los diferentes sistemas de línea de órdenes existentes.
+
+- [x] Probar diferentes proveedores de nube y ver las posibilidades que ofrecen.
+
+
+
+##Undécima semana, 12 de diciembre de 2016
+
+- [x] Entender el concepto de contenedor.
+
+- [x] Comprender su encaje en la infraestructura virtual.
+
+
+### Objetivos adicionales
+
+- [x] Instalar lxc en Linux y probar los ejemplos.
+
+- [x] Conocer sistemas operativos "ligeros" especializados para su uso en contenedores tales como Alpine, Plamo u otros.
+
+
+
 
