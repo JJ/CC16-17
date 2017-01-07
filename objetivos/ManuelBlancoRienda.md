@@ -42,6 +42,14 @@
 - [x] Realización de la corrección del script de orquestación del compañero José Luis Fernández Aguilera. [Enlace](https://github.com/okynos/ProyectoCC/blob/master/orquestacion/correccion.md).
 - [x] Realización del hito 3, tal y como puede verse en el fichero de documentación: [Enlace](https://github.com/manuelbr/Proyecto_CC/blob/master/README.md).
 
+################ Objetivos a cumplir la décima, décimo primera, duodécima, décimo tercera y décimo cuarta semana (Del 12 de Diciembre de 2016 al 11 de Enero de 2017)
+
+- [x] Entender el concepto de contenedor.
+- [x] Comprender su encaje en la infraestructura virtual.
+- [x] Realización de los ejercicios del tema 4: [Ejercicios del tema 4](https://github.com/manuelbr/ejercicios_CC/tree/master/tema_4).
+- [x] Realización de la corrección de los scripts de Dockerfile del compañero José Luis Fernández Aguilera. [Enlace](https://github.com/okynos/ProyectoCC/blob/master/contenedores/correccion.md).
+- [x] Realización del hito 4, tal y como puede verse en el fichero de documentación: [Enlace](https://github.com/manuelbr/Proyecto_CC/blob/master/README.md).
+
 ####################################### Otros Objetivos
 
 - [x] Tener a punto una instalación Linux para llevar a cabo las actividades de la asignatura
@@ -63,8 +71,9 @@
 - [x] Instalar los nuevos sistemas de orquestación correspondientes al tema actual.
 - [x] Aprender nociones básicas de Ruby. (Realizado obligatoriamente para comprender el funcionamiento de los "Vagrantfile")
 - [x] Revisar ejemplos y texto del tema nuevo que en se imparte este año por primera vez.
-- [ ] Instalarse los diferentes clientes de líneas de órdenes de los sistemas en la nube a los que se tenga acceso. 
-
+- [x] Instalarse los diferentes clientes de líneas de órdenes de los sistemas en la nube a los que se tenga acceso. 
+- [x] Instalar lxc en Linux y probar los ejemplos. [Enlace](https://github.com/manuelbr/ejercicios_CC/tree/master/tema_4/ejercicio_1).
+- [x] Conocer sistemas operativos "ligeros" especializados para su uso en contenedores tales como Alpine, Plamo u otros. [Enlace](https://github.com/manuelbr/ejercicios_CC/tree/master/tema_4/ejercicio_2).
     
 
     
