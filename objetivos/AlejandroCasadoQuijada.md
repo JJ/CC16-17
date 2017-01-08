@@ -172,6 +172,26 @@
 
 - [x] Trabajar con los diferentes sistemas de línea de órdenes existentes.
 
+- [ ] Probar diferentes proveedores de nube y ver las posibilidades que ofrecen. 
+
+## Undécima semana, comienza el 12 de diciembre de 2016
+
+- [x] Entender el concepto de contenedor.
+
+- [x] Comprender su encaje en la infraestructura virtual.
+
+### Objetivos adicionales
+
+- [x] Instalar lxc en Linux y probar los ejemplos. [Ejercicio 1](https://github.com/acasadoquijada/ejercicios-CC16-17/blob/master/ejercicios/ejerciciosTema4.md#ejercicio-1)
+
+- [x] Conocer sistemas operativos "ligeros" especializados para su uso en contenedores tales como Alpine, Plamo u otros.[Ejercicio 2](https://github.com/acasadoquijada/ejercicios-CC16-17/blob/master/ejercicios/ejerciciosTema4.md#instalar-una-distro-tal-como-alpine-y-conectarse-a-ella-usando-el-nombre-de-usuario-y-clave-que-indicar%C3%A1-en-su-creaci%C3%B3n)
+
+
+
+
+
+
+
 
 
 
