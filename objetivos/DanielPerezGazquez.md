@@ -129,6 +129,7 @@
 - [X] Entender el concepto de contenedor.
 - [X] Comprender su encaje en la infraestructura virtual.
 - [X] Ejercicios del tema "Virtualización ligera usando contenedores" hechos: [Ejercicios Contenedores] (https://drive.google.com/file/d/0B05WAJYcIHCeb3ZLaHNnd2pNQzg/view?usp=sharing)
+- [X] Crear "Automated Builds" para cada uno de los servidores (a partir de los "Dockerfiles") y un nuevo archivo Vagrantfile que los utilice para crear los contenedores: [Nuevo Vagrantfile] (https://github.com/NestorsImagination/Sample-Multiplayer-Shooter/tree/master/Docker-DockerHub), [Automatic Builds] (https://hub.docker.com/search/?isAutomated=0&isOfficial=0&page=1&pullCount=0&q=plenidag&starCount=0)
 
 ### Otros Objetivos
 
