@@ -1,20 +1,20 @@
-#Undécima semana, comienza el 19 de diciembre de 2016
+# Duodécima semana, comienza el 19 de diciembre de 2016
 
 Última semana del año.
 
-##Objetivos de la asignatura
+## Objetivos de la asignatura
 
 1. Entender el papel de los contenedores en la infraestructura virtual.
 2. Comprender los procesos de definición de contenedores.
 
-##Objetivos adicionales
+## Objetivos adicionales
 
 1. Trabajar con Docker
 
 2. Alta en Docker Hub.
 
 
-##Material para esta semana
+## Material para esta semana
 
 * *Teoría*: Continuamos con
   la
