@@ -81,8 +81,8 @@
 
 ### Otros Objetivos
 
-- [x] Comprender los errores cometidos en el hito entregado el lunes y volver a entregarlo en caso de error. https://github.com/JJ/CC16-17/pull/85
-- [x] Conocer las diferentes ofertas y métodos de uso y creación de máquinas virtuales en la nube. https://aws.amazon.com/es/education/awseducate/
+- [x] Comprender los errores cometidos en el hito entregado el lunes y volver a entregarlo en caso de error.
+- [x] Conocer las diferentes ofertas y métodos de uso y creación de máquinas virtuales en la nube.
 - [x] Instalar las herramientas de línea de órdenes de las herramientas cloud.
 - [x] Hacerse con alguna cuenta gratuita o bonificada de cloud.
 - [x] Aprender la mínimo de los lenguajes necesarios para trabajar en la nube: Perl, Python y Ruby.
@@ -95,14 +95,14 @@
 ### Otros Objetivos
 
 - [x] Tener listos diferentes sistemas donde se puedan desplegar máquinas virtuales.
-- [x] Conocer diferentes lugares donde haya imágenes de sistemas operativos listas para usar. https://atlas.hashicorp.com/boxes/search
+- [x] Conocer diferentes lugares donde haya imágenes de sistemas operativos listas para usar.
 - [x] Instalar y configurar diferentes sistemas de provisionamiento.
 - [x] Aprender lo suficiente de los lenguajes de programación usados por los sistemas de aprovisionamiento para entender el Domain Specific Language usado por los mismos.
 
 ## Séptima semana, comienza el 14 de noviembre de 2016
 
 - [x] Resolver problemas con el uso de los diferentes sistemas de provisionamiento en la nube.
-- [x] Revisar la actualización al tema y hacer los ejercicios corresondientes. https://fblupi.github.io/master_informatica-CC/ejercicios-2
+- [x] Revisar la actualización al tema y hacer los ejercicios corresondientes.
 
 ### Otros Objetivos
 
@@ -118,8 +118,8 @@
 
 ### Otros Objetivos
 
-- [x] Terminar el hito 2 del proyecto, resolviendo las dudas que surjan. https://github.com/fblupi/GEventator/milestone/2
-- [x] Instalar los nuevos sistemas de orquestación correspondientes al tema actual. https://fblupi.github.io/master_informatica-CC/ejercicios-3
+- [x] Terminar el hito 2 del proyecto, resolviendo las dudas que surjan.
+- [x] Instalar los nuevos sistemas de orquestación correspondientes al tema actual.
 - [x] Aprender nociones básicas de Ruby.
 
 ## Novena semana
