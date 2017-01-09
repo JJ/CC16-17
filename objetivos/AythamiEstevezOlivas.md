@@ -91,8 +91,8 @@
 ### Otros objetivos
 - [x] Terminar el [hito 2](https://github.com/AythaE/DeFesti/milestone/3) del proyecto, resolviendo las dudas que surjan.
 - [ ] Instalar los nuevos sistemas de orquestación correspondientes al tema actual.
-- [ ] Aprender nociones básicas de Ruby.
-- [ ] Revisar ejemplos y texto del tema nuevo que en se imparte este año por primera vez.
+- [x] Aprender nociones básicas de Ruby.
+- [x] Revisar ejemplos y texto del tema nuevo que en se imparte este año por primera vez.
 
 ## Objetivos a cubrir en la novena semana
 - [x] Entender el funcionamiento básico de los sistemas de gestión de recursos en la nube.
@@ -105,7 +105,14 @@
 - [x] Entender los recursos para automatización de actividades en la nube
 - [x] Entender el concepto de infraestructura definida por software.
 
-
 ### Otros objetivos
 - [x] Trabajar con los diferentes sistemas de línea de órdenes existentes.
 - [ ] Probar diferentes proveedores de nube y ver las posibilidades que ofrecen.
+
+## Objetivos a cubrir en la undécima semana
+- [x] Entender el concepto de contenedor.
+- [x] Comprender su encaje en la infraestructura virtual.
+
+### Otros objetivos
+- [x] Instalar lxc en Linux y probar los ejemplos. Ver [primeros ejercicios del tema de contendores](https://github.com/AythaE/Ejercicios-CC16-17/tree/master/Virtualizacion_ligera_usando_contenedores).
+- [x] Conocer sistemas operativos "ligeros" especializados para su uso en contenedores tales como Alpine, Plamo u otros. Ver [ejercicios del tema contenedores](https://github.com/AythaE/Ejercicios-CC16-17/tree/master/Virtualizacion_ligera_usando_contenedores).

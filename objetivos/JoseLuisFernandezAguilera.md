@@ -38,6 +38,13 @@
 25. [x] Asimilar los conceptos relacionados con tales sistemas.
 26. [x] Ejercicios del tema relativo a orquestación y automatización cloud. [Enlace Tema 3](https://github.com/okynos/EjerciciosCC/tree/master/EjerciciosTema3) [Enlace Tema 4](https://github.com/okynos/EjerciciosCC/tree/master/EjerciciosTema4)
 
+## Objetivos décima y undécima semana
+27. [x] Entender los recursos para automatización de actividades en la nube.
+28. [x] Entender el concepto de infraestructura definida por software.
+29. [x] Entender el concepto de contenedor.
+30. [x] Comprender su encaje en la infraestructura virtual.
+31. [x] Trabajar con los diferentes sistemas de virtualización.
+32. [x] Ejercicios de los temas relativos [Enlace tema 5](https://github.com/okynos/EjerciciosCC/tree/master/EjerciciosTema5)
 
 ### Otros objetivos
 - [x] Tener a punto una instalación Linux para llevar a cabo las actividades de la asignatura.
@@ -63,5 +70,9 @@
 - [x] Instalar los nuevos sistemas de orquestación correspondientes al tema actual.
 - [x] Aprender nociones básicas de Ruby.
 - [x] Revisar ejemplos y texto del tema nuevo que en se imparte este año por primera vez.
-- [x] Instalarse los diferentes clientes de líneas de órdenes de los sistemas en la nube a los que se tenga acceso. 
+- [x] Instalarse los diferentes clientes de líneas de órdenes de los sistemas en la nube a los que se tenga acceso.
+- [x] Trabajar con los diferentes sistemas de línea de órdenes existentes.
+- [x] Probar diferentes proveedores de nube y ver las posibilidades que ofrecen.
+- [x] Instalar lxc en Linux y probar los ejemplos.
+- [x] Conocer sistemas operativos "ligeros" especializados para su uso en contenedores tales como Alpine, Plamo u otros.
 

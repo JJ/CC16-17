@@ -161,3 +161,15 @@ Para estos objetivos he de referirme nuevamente a las tres charlas recibidas.
 
 * [ ] Trabajar con los diferentes sistemas de línea de órdenes existentes.
 * [x] Probar diferentes proveedores de nube y ver las posibilidades que ofrecen (en mi caso ha sido sólo AWS).
+
+#Objetivos semana 12 de diciembre de 2016
+
+##Objetivos de la asignatura
+
+* [x] Entender el concepto de contenedor.
+* [x] Comprender su encaje en la infraestructura virtual.
+
+##Objetivos adicionales
+
+* [x] Instalar lxc en Linux y probar los ejemplos. Ver [aquí](https://github.com/Griger/Ejercicios-CC/blob/master/Tema4/ej2.md).
+* [x] Conocer sistemas operativos "ligeros" especializados para su uso en contenedores como Alpine, Plamo u otros.

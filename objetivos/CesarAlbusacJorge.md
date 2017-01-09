@@ -93,16 +93,16 @@
 - [x] Aprender a usar diferentes sistemas de provisionamiento de máquinas virtuales y en la nube.
 - [x] Entender los diferentes conceptos subyacentes: servicio, estado.
 
-###Otros objetivos
+### Otros objetivos
 - [x] Tener listos diferentes sistemas donde se puedan desplegar máquinas virtuales.
 - [x] Conocer diferentes lugares donde haya imágenes de sistemas operativos listas para usar.
 - [x] Instalar y configurar diferentes sistemas de provisionamiento.
 - [ ] Aprender lo suficiente de los lenguajes de programación usados por los sistemas de aprovisionamiento para entender el Domain Specific Language usado por los mismos.
 
-##Séptima semana,  14 de noviembre de 2016
+## Séptima semana,  14 de noviembre de 2016
 - [x] Resolver problemas con el uso de los diferentes sistemas de provisionamiento en la nube.
 
-###Otros objetivos
+### Otros objetivos
 - [x] Probar los provisionamientos creados en diferentes servicios.
 - [ ] Probar con algún sistema operativo poco habitual, como OpenBSD.
 - [x] Instalar los nuevos sistemas de aprovisionamiento de los que se habla en la nueva versión del tema y probarlos.
@@ -115,9 +115,40 @@
 
 ### Otros objetivos
 - [x] Terminar el hito 2.
-- [ ] Instalar los nuevos sistemas de orquestación correspondientes al tema actual.
+- [X] Instalar los nuevos sistemas de orquestación correspondientes al tema actual.
 - [ ] Aprender nociones básicas de Ruby.
 - [ ] Revisar ejemplos y texto del tema nuevo que en se imparte este año por primera vez.
+
+## Novena semana, 28 de noviembre de 2016
+- [x] Entender el funcionamiento básico de los sistemas de gestión de recursos en la nube.
+- [x] Asimilar los conceptos relacionados con tales sistemas.
+
+### Otros Objetivos
+
+- [x] Instalarse los diferentes clientes de líneas de órdenes de los sistemas en la nube a los que se tenga acceso.
+
+## Décima semana, 5 de diciembre de 2016
+
+- [x] Entender los recursos para automatización de actividades en la nube
+- [x] Entender el concepto de infraestructura definida por software.
+
+### Otros Objetivos
+
+- [x] Trabajar con los diferentes sistemas de línea de órdenes existentes.
+- [x] Probar diferentes proveedores de nube y ver las posibilidades que ofrecen.
+
+
+## Undécima semana, 12 de diciembre de 2016
+
+- [x] Entender el concepto de contenedor.
+
+- [x] Comprender su encaje en la infraestructura virtual.
+
+### Objetivos adicionales
+
+- [x] Instalar lxc en Linux y probar los ejemplos. [Ejercicio1](https://github.com/cesar2/EjerciciosCloudComputing/blob/master/Temas/tema4_contenedores.md#ejercicio-1)
+
+- [x] Conocer sistemas operativos "ligeros" especializados para su uso en contenedores tales como Alpine, Plamo u otros.[Ejercicio 2](https://github.com/cesar2/EjerciciosCloudComputing/blob/master/Temas/tema4_contenedores.md#ejercicio-2)
 
 
 

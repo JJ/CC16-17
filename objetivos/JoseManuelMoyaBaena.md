@@ -48,6 +48,10 @@
 26. [x] Entender los recursos para automatización de actividades en la nube
 27. [x] Entender el concepto de infraestructura definida por software.
 
+##Objetivos Undecima semana
+28. [x] Entender el concepto de contenedor.
+29. [x] Comprender su encaje en la infraestructura virtual. 
+
 
 ## Otros objetivos
 * [x] Tener a punto una instalación Linux para llevar a cabo las actividades de la asignatura
@@ -83,3 +87,5 @@
 * [x] Instalarse los diferentes clientes de líneas de órdenes de los sistemas en la nube a los que se tenga acceso.
 * [x] Trabajar con los diferentes sistemas de línea de órdenes existentes.
 * [x] Probar diferentes proveedores de nube y ver las posibilidades que ofrecen.
+* [x] Instalar lxc en Linux y probar los ejemplos.
+* [x] Conocer sistemas operativos "ligeros" especializados para su uso en contenedores tales como Alpine, Plamo u otros.
