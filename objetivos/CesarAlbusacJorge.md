@@ -138,5 +138,18 @@
 - [x] Probar diferentes proveedores de nube y ver las posibilidades que ofrecen.
 
 
+## Undécima semana, 12 de diciembre de 2016
+
+- [x] Entender el concepto de contenedor.
+
+- [x] Comprender su encaje en la infraestructura virtual.
+
+### Objetivos adicionales
+
+- [x] Instalar lxc en Linux y probar los ejemplos. [Ejercicio1](https://github.com/cesar2/EjerciciosCloudComputing/blob/master/Temas/tema4_contenedores.md#ejercicio-1)
+
+- [x] Conocer sistemas operativos "ligeros" especializados para su uso en contenedores tales como Alpine, Plamo u otros.[Ejercicio 2](https://github.com/cesar2/EjerciciosCloudComputing/blob/master/Temas/tema4_contenedores.md#ejercicio-2)
+
+
 
 
