@@ -139,3 +139,15 @@
 
 - [x] Trabajar con los diferentes sistemas de línea de órdenes existentes.
 - [x] Probar diferentes proveedores de nube y ver las posibilidades que ofrecen.
+
+## Undécima semana, comienza el 12 de diciembre de 2016
+
+- [x] Entender el concepto de contenedor.
+
+- [x] Comprender su encaje en la infraestructura virtual.
+
+### Objetivos adicionales
+
+- [x] Instalar lxc en Linux y probar los ejemplos. [Ejercicio 1](https://github.com/pedrogazquez/EjerciciosCC16-17/blob/master/Tema4Contenedores/EjerciciosTema4.md)
+
+- [x] Conocer sistemas operativos "ligeros" especializados para su uso en contenedores tales como Alpine, Plamo u otros.[Ejercicio 2](https://github.com/pedrogazquez/EjerciciosCC16-17/blob/master/Tema4Contenedores/EjerciciosTema4.md)
