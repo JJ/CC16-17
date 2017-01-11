@@ -112,7 +112,20 @@
 
 **Enlace a los ejercicios del tema 3:** https://github.com/pmmre/Ejercicios-CC1617/blob/master/Ejercicios/EjerciciosTema3.md
 ### Otros objetivos
-- [ ] Instalar lxc en Linux y probar los ejemplos.
-- [ ] Conocer sistemas operativos "ligeros" especializados para su uso en contenedores tales como Alpine, Plamo u otros.
+- [x] Instalar lxc en Linux y probar los ejemplos.
+- [x] Conocer sistemas operativos "ligeros" especializados para su uso en contenedores tales como Alpine, Plamo u otros.
+
+## Objetivos duodécima semana
+- [x] Entender el papel de los contenedores en la infraestructura virtual.
+- [x] Comprender los procesos de definición de contenedores.
+
+### Otros objetivos
+- [x] Trabajar con Docker
+- [x] Alta en Docker Hub.
+
+
+**Enlace a los ejercicios del tema 4:** https://github.com/pmmre/Ejercicios-CC1617/blob/master/Ejercicios/EjerciciosTema4.md
+
+
 
 
