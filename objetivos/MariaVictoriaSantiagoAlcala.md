@@ -123,7 +123,18 @@
 - [x] Entender el concepto de contenedor.
 - [x] Comprender su encaje en la infraestructura virtual.
 
+### Otros objetivos
+- [x] Instalar lxc en Linux y probar los ejemplos.
+- [x] Conocer sistemas operativos "ligeros" especializados para su uso en contenedores tales como Alpine, Plamo u otros.
+
+## Objetivos duodécima semana
+- [x] Entender el papel de los contenedores en la infraestructura virtual.
+- [x] Comprender los procesos de definición de contenedores.
 
 ### Otros objetivos
-- [ ] Instalar lxc en Linux y probar los ejemplos.
-- [ ] Conocer sistemas operativos "ligeros" especializados para su uso en contenedores tales como Alpine, Plamo u otros.
+- [x] Trabajar con Docker
+- [x] Alta en Docker Hub.
+
+
+
+
