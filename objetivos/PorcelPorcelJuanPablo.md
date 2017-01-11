@@ -121,10 +121,21 @@
 
 ## Objetivos a realizar en la undécima semana de clase 12 de Diciembre
 
-- [] Entender el concepto de contenedor.
-- [] Comprender su encaje en la infraestructura virtual. 
+- [x] Entender el concepto de contenedor.
+- [x] Comprender su encaje en la infraestructura virtual. 
 
 ### Otros objetivos
 
-- [] Instalar lxc en Linux y probar los ejemplos.
-- [] Conocer sistemas operativos "ligeros" especializados para su uso en contenedores tales como Alpine, Plamo u otros.
+- [x] Instalar lxc en Linux y probar los ejemplos.
+- [x] Conocer sistemas operativos "ligeros" especializados para su uso en contenedores tales como Alpine, Plamo u otros.
+
+## Objetivos a realizar en la duodécima semana de clase 19 de Diciembre
+
+- [x] Entender el papel de los contenedores en la infraestructura virtual.
+- [x] Comprender los procesos de definición de contenedores.
+
+
+### Otros objetivos
+
+- [x] Trabajar con Docker.
+- [x] Alta en Docker Hub.
