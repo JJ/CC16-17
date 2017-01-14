@@ -1,4 +1,4 @@
-# Duodécima semana, comienza el 19 de diciembre de 2016
+# Décimo tercera semana, comienza el 9 de enero de 2017
 
 Primera semana del año.
 
@@ -12,7 +12,7 @@ Primera semana del año.
 
 1. Trabajar con CoreOS
 
-2. Entender etcd y los mecanismos de coordinación. 
+2. Entender `etcd`  y los mecanismos de coordinación. 
 
 ## Material para esta semana
 
