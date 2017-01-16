@@ -1,4 +1,4 @@
-# Décimo cuarta semana, comienza el 15 de enero de 2017
+# Décimo cuarta semana, comienza el 16 de enero de 2017
 
 
 ## Objetivos de la asignatura
@@ -11,7 +11,7 @@
 
 1. Entender el suficiente Ruby para poder hacer cosas un poco más avanzadas con Vagrant.
 
-2. Comparar costes de diferentes plataformas virtuales. 
+2. Comparar costes y prestaciones de diferentes plataformas virtuales. 
 
 ## Material para esta semana
 
@@ -20,6 +20,10 @@
   [configuración de sistemas distribuidos](http://jj.github.io/CC/documentos/temas/Orquestacion#configuracin-de-sistemas-distribuidos),
   para usar docker.
 
+*
+  *Proyecto*:
+  [despliegue completo de una infraestructura virtual](http://jj.github.io/CC/documentos/proyecto/5.Despliegue) usando
+  las diferentes técnicas vistas en la asignatura. 
 
 ## Siguiente semana
 
