@@ -23,7 +23,7 @@
 *
   *Proyecto*:
   [despliegue completo de una infraestructura virtual](http://jj.github.io/CC/documentos/proyecto/5.Despliegue) usando
-  las diferentes técnicas vistas en la asignatura. 
+  las diferentes técnicas vistas en la asignatura. La entrega del proyecto será el día 1 de febrero hasta medianoche. 
 
 ## Siguiente semana
 
