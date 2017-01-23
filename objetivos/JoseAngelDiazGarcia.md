@@ -142,7 +142,7 @@
 
 ### Otros Objetivos
 
-- [] Instalar lxc en Linux y probar los ejemplos.
+- [x] Instalar lxc en Linux y probar los ejemplos.
 
 - [x] Conocer sistemas operativos "ligeros" especializados para su uso en contenedores tales como Alpine, Plamo u otros.
 
@@ -158,14 +158,19 @@
 
 - [x] Alta en Docker Hub.
 
+### Ejercicios contenedores 
+
+[Ejercicios de contenedores](https://github.com/joseangeldiazg/MII-CloudComputing-Ejercicios/blob/master/T4/ejerciciost4-CC.md)
+
+
 # Objetivos a cubrir en la decimotercera semana 9/01/2017
 
 - [x] Conocer sistemas operativos específicos para trabajar con contenedores.
 
-- [] Entender los mecanismos de coordinación de contenedores
+- [x] Entender los mecanismos de coordinación de contenedores
 Repaso y dudas sobre el último hito de la práctica.
 
-- [] Repaso y dudas sobre el último hito de la práctica.
+- [x] Repaso y dudas sobre el último hito de la práctica.
 
 ### Otros Objetivos
 
