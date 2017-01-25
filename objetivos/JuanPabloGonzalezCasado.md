@@ -95,7 +95,7 @@
 ### Otros Objetivos
 
 - [x] Terminar el hito 2 del proyecto, resolviendo las dudas que surjan.
-- [x] Instalar los nuevos sistemas de orquestación correspondientes al tema actual.
+- [x] Instalar los nuevos sistemas de orquestación correspondientes al tema actual. https://github.com/Pablo126/Cloud-computing-Ejercicios/blob/master/Ejercicios_tema3.md
 - [x] Aprender nociones básicas de Ruby.
 
 ## Objetivos a cubrir en la novena semana
@@ -124,5 +124,5 @@
 
 ### Otros Objetivos
 
-- [ ] Instalar lxc en Linux y probar los ejemplos. 
-- [ ] Conocer sistemas operativos "ligeros" especializados para su uso en contenedores tales como Alpine, Plamo u otros. 
+- [x] Instalar lxc en Linux y probar los ejemplos. 
+- [x] Conocer sistemas operativos "ligeros" especializados para su uso en contenedores tales como Alpine, Plamo u otros.  https://github.com/Pablo126/Cloud-computing-Ejercicios/blob/master/Ejercicios_tema5.md
