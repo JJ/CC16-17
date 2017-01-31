@@ -116,3 +116,34 @@
 ### Otros objetivos
 - [x] Instalar lxc en Linux y probar los ejemplos. Ver [primeros ejercicios del tema de contendores](https://github.com/AythaE/Ejercicios-CC16-17/tree/master/Virtualizacion_ligera_usando_contenedores).
 - [x] Conocer sistemas operativos "ligeros" especializados para su uso en contenedores tales como Alpine, Plamo u otros. Ver [ejercicios del tema contenedores](https://github.com/AythaE/Ejercicios-CC16-17/tree/master/Virtualizacion_ligera_usando_contenedores).
+
+## Objetivos a cubrir en la duodécima semana
+- [x] Entender el papel de los contenedores en la infraestructura virtual.
+- [x] Comprender los procesos de definición de contenedores.
+
+### Otros objetivos
+- [x] Trabajar con Docker. [Ver hito 4](https://github.com/AythaE/DeFesti/milestone/5?closed=1)
+- [x] Alta en Docker Hub. [Ver hito 4](https://github.com/AythaE/DeFesti/milestone/5?closed=1)
+
+
+## Objetivos a cubrir en la décimo tercera semana
+
+- [x] Conocer sistemas operativos específicos para trabajar con contenedores.
+- [x] Entender los mecanismos de coordinación de contenedores
+- [x] Repaso y dudas sobre el último hito de la práctica.
+
+### Otros objetivos
+
+- [ ] Trabajar con CoreOS
+- [ ] Entender etcd y los mecanismos de coordinación
+
+
+## Objetivos a cubrir en la décimo cuarta semana
+
+- [ ] Entender los costes y prestaciones de las diferentes plataformas virtuales.
+- [ ] Asimilar las buenas prácticas en la elección de una plataforma virtual.
+
+### Otros objetivos
+
+- [x] Entender el suficiente Ruby para poder hacer cosas un poco más avanzadas con Vagrant.
+- [ ] Comparar costes y prestaciones de diferentes plataformas virtuales.
