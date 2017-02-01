@@ -46,6 +46,15 @@
 31. [x] Trabajar con los diferentes sistemas de virtualización.
 32. [x] Ejercicios de los temas relativos [Enlace tema 5](https://github.com/okynos/EjerciciosCC/tree/master/EjerciciosTema5)
 
+## Objetivos duodécima, décimo tercera y décimo cuarta semana
+33. [x] Entender el papel de los contenedores en la infraestructura virtual.
+34. [x] Comprender los procesos de definición de contenedores.
+35. [x] Conocer sistemas operativos específicos para trabajar con contenedores.
+36. [x] Entender los mecanismos de coordinación de contenedores
+37. [x] Repaso y dudas sobre el último hito de la práctica.
+38. [x] Entender los costes y prestaciones de las diferentes plataformas virtuales.
+39. [x] Asimilar las buenas prácticas en la elección de una plataforma virtual.
+
 ### Otros objetivos
 - [x] Tener a punto una instalación Linux para llevar a cabo las actividades de la asignatura.
 - [x] Usar los métodos de entrega de ejercicios propuestos para la asignatura usando GitHub. 
@@ -75,4 +84,11 @@
 - [x] Probar diferentes proveedores de nube y ver las posibilidades que ofrecen.
 - [x] Instalar lxc en Linux y probar los ejemplos.
 - [x] Conocer sistemas operativos "ligeros" especializados para su uso en contenedores tales como Alpine, Plamo u otros.
+- [x] Trabajar con Docker.
+- [x] Alta en Docker Hub.
+- [x] Trabajar con CoreOS (he tenido problemas en el provisionamiento)
+- [x] Entender etcd y los mecanismos de coordinación. 
+- [x] Entender el suficiente Ruby para poder hacer cosas un poco más avanzadas con Vagrant.
+- [x] Comparar costes y prestaciones de diferentes plataformas virtuales. 
+
 
