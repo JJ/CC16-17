@@ -186,13 +186,45 @@
 
 - [x] Conocer sistemas operativos "ligeros" especializados para su uso en contenedores tales como Alpine, Plamo u otros.[Ejercicio 2](https://github.com/acasadoquijada/ejercicios-CC16-17/blob/master/ejercicios/ejerciciosTema4.md#instalar-una-distro-tal-como-alpine-y-conectarse-a-ella-usando-el-nombre-de-usuario-y-clave-que-indicar%C3%A1-en-su-creaci%C3%B3n)
 
+## Duodécima semana, comienza el 19 de diciembre de 2016
+
+- [x] Entender el papel de los contenedores en la infraestructura virtual.
+
+- [x] Comprender los procesos de definición de contenedores.
 
 
+### Objetivos adicionales
+
+- [x] Entender el papel de los contenedores en la infraestructura virtual.
+
+- [x] Comprender los procesos de definición de contenedores.
 
 
+## Décimo tercera semana, comienza el 9 de enero de 2017
 
+- [x] Conocer sistemas operativos específicos para trabajar con contenedores.
 
+- [x] Entender los mecanismos de coordinación de contenedores
 
+- [x] Repaso y dudas sobre el último hito de la práctica.
+
+### Objetivos adicionales
+
+- [ ] Trabajar con CoreOS
+
+- [ ] Entender etcd y los mecanismos de coordinación.
+
+## Décimo cuarta semana, comienza el 16 de enero de 2017
+
+- [x] Entender los costes y prestaciones de las diferentes plataformas virtuales.
+
+- [x] Asimilar las buenas prácticas en la elección de una plataforma virtual.
+
+### Objetivos adicionales
+
+- [x] Entender el suficiente Ruby para poder hacer cosas un poco más avanzadas con Vagrant.
+
+- [x] Comparar costes y prestaciones de diferentes plataformas virtuales.
 
 
 
