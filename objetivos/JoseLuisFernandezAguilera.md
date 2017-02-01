@@ -46,7 +46,7 @@
 31. [x] Trabajar con los diferentes sistemas de virtualización.
 32. [x] Ejercicios de los temas relativos [Enlace tema 5](https://github.com/okynos/EjerciciosCC/tree/master/EjerciciosTema5)
 
-## Objetivos duodécima, treceava y  semana
+## Objetivos duodécima, décimo tercera y décimo cuarta semana
 33. [x] Entender el papel de los contenedores en la infraestructura virtual.
 34. [x] Comprender los procesos de definición de contenedores.
 35. [x] Conocer sistemas operativos específicos para trabajar con contenedores.
