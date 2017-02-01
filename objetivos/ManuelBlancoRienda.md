@@ -50,6 +50,16 @@
 - [x] Realización de la corrección de los scripts de Dockerfile del compañero José Luis Fernández Aguilera. [Enlace](https://github.com/okynos/ProyectoCC/blob/master/contenedores/correccion.md).
 - [x] Realización del hito 4, tal y como puede verse en el fichero de documentación: [Enlace](https://github.com/manuelbr/Proyecto_CC/blob/master/README.md).
 
+################Objetivos a cumplir la décimo quinta, décimo sexta y décimo séptima semana (del 11 de Enero al 1 de Febrero de 2017)
+
+- [x] Conocer sistemas operativos específicos para trabajar con contenedores.
+- [x] Entender los mecanismos de coordinación de contenedores.
+- [x] Repaso y dudas sobre el último hito de la práctica.
+- [x] Entender los costes y prestaciones de las diferentes plataformas virtuales.
+- [x] Asimilar las buenas prácticas en la elección de una plataforma virtual
+- [x] Realización del hito final de despliegue completo de una infraestructura virtual, usando Vagrant, Docker, ansible con Azure: [Enlace](https://github.com/manuelbr/Proyecto_CC/blob/master/README.md).
+
+
 ####################################### Otros Objetivos
 
 - [x] Tener a punto una instalación Linux para llevar a cabo las actividades de la asignatura
@@ -74,6 +84,10 @@
 - [x] Instalarse los diferentes clientes de líneas de órdenes de los sistemas en la nube a los que se tenga acceso. 
 - [x] Instalar lxc en Linux y probar los ejemplos. [Enlace](https://github.com/manuelbr/ejercicios_CC/tree/master/tema_4/ejercicio_1).
 - [x] Conocer sistemas operativos "ligeros" especializados para su uso en contenedores tales como Alpine, Plamo u otros. [Enlace](https://github.com/manuelbr/ejercicios_CC/tree/master/tema_4/ejercicio_2).
+- [x] Entender el suficiente Ruby para poder hacer cosas un poco más avanzadas con Vagrant. (Se ha realizado despliegue múltiple de máquinas con Azure y Vagrant en el hito final: [Enlace](https://github.com/manuelbr/Proyecto_CC/blob/master/README.md).)
+- [x] Comparar costes y prestaciones de diferentes plataformas virtuales.
+- [ ] Trabajar con CoreOS.
+- [x] Entender etcd y los mecanismos de coordinación.
     
 
     
