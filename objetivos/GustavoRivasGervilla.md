@@ -173,3 +173,40 @@ Para estos objetivos he de referirme nuevamente a las tres charlas recibidas.
 
 * [x] Instalar lxc en Linux y probar los ejemplos. Ver [aquí](https://github.com/Griger/Ejercicios-CC/blob/master/Tema4/ej2.md).
 * [x] Conocer sistemas operativos "ligeros" especializados para su uso en contenedores como Alpine, Plamo u otros.
+
+#Objetivos semana 19 de diciembre 2016
+
+##Objetivos de la asignatura
+
+* [x] Entender el papel de los contenedores en la infraestructura virtual.
+* [x] Comprender los procesos de definición de contenedores.
+
+##Objetivos adicionales
+
+* [x] Trabajar con Docker.
+* [x] Alta en Docker Hub.
+
+#Objetivos semana 9 de enero de 2017
+
+##Objetivos de la asignatura
+
+* [x] Conocer sistemas operativos específicos para trabajar con contenedores.
+* [x] Entender los mecanismos de coordinación de contenedores.
+* [x] Repaso y dudas sobre el último hito de la práctica.
+
+##Objetivos adicionales
+
+* [ ] Trabajar con CoreOS.
+* [ ] Entender etcd y los mecanismos de coordinación.
+
+#Objetivos semana 16 de enero de 2017
+
+##Objetivos de la asignatura
+
+* [x] Entender los costes y prestaciones de las diferentes plataformas virtuales.
+* [x] Asimilar las buenas prácticas en la elección de una plataforma virtual.
+
+##Objetivos adicionales
+
+* [x] Entender el suficiente Ruby para poder hacer cosas un poco más avanzadas con Vagrant.([ŧutorial](http://www.tutorialspoint.com/ruby/))
+* [x] Comparar costes y prestaciones de diferentes plataformas virtuales.
