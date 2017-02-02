@@ -121,7 +121,7 @@
 - [x] Trabajar con los diferentes sistemas de línea de órdenes existentes.
 - [x] Probar diferentes proveedores de nube y ver las posibilidades que ofrecen.
 
-## Objetivos a cubrir en la undécima semana 12/12/2016
+## Objetivos a cubrir en la undécima semana
 
 - [x] Entender el concepto de contenedor.
 - [x] Comprender su encaje en la infraestructura virtual.
@@ -131,3 +131,35 @@
 - [x] Instalar lxc en Linux y probar los ejemplos.
 - [x] Conocer sistemas operativos "ligeros" especializados para su uso en contenedores tales como Alpine, Plamo u otros.
 - [x] Dockerfile/docker-machine
+
+## Objetivos a cubrir en la duodécima semana
+
+- [x] Entender el papel de los contenedores en la infraestructura virtual.
+- [x] Comprender los procesos de definición de contenedores.
+
+### Otros Objetivos
+
+- [x] Trabajar con Docker 
+- [x] Alta en Docker Hub 
+
+## Objetivos a cubrir en la decimotercera semana
+
+- [x] Conocer sistemas operativos específicos para trabajar con contenedores.
+- [x] Entender los mecanismos de coordinación de contenedores
+- [x] Repaso y dudas sobre el último hito de la práctica.
+
+### Otros Objetivos
+
+- [x] Trabajar con CoreOS
+- [x] Entender etcd y los mecanismos de coordinación.
+
+## Objetivos a cubrir en la decimocuarta semana
+
+- [x] Entender los costes y prestaciones de las diferentes plataformas virtuales.
+- [x] Asimilar las buenas prácticas en la elección de una plataforma virtual.
+
+### Otros Objetivos
+
+- [x] Entender el suficiente Ruby para poder hacer cosas un poco más avanzadas con Vagrant.
+- [x] Comparar costes y prestaciones de diferentes plataformas virtuales.
+
