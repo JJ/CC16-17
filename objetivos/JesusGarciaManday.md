@@ -198,6 +198,39 @@
 
 - [x] Conocer sistemas operativos "ligeros" especializados para su uso en contenedores tales como Alpine, Plamo u otros.
 
+## Duodécima semana, 19 de diciembre de 2016
+
+- [x] Entender el papel de los contenedores en la infraestructura virtual.
+- [x] Comprender los procesos de definición de contenedores.
+
+### Otros Objetivos
+
+- [x] Trabajar con Docker [enlace](https://github.com/jmanday/CRUT/milestone/4)
+- [x] Alta en Docker Hub [enlace](https://hub.docker.com/r/jmanday/)
+
+
+## Décimo tercera semana, 9 de enero de 2017
+
+- [x] Conocer sistemas operativos específicos para trabajar con contenedores.
+- [x] Entender los mecanismos de coordinación de contenedores
+- [x] Repaso y dudas sobre el último hito de la práctica.
+
+### Otros Objetivos
+
+- [ ] Trabajar con CoreOS
+- [ ] Entender etcd y los mecanismos de coordinación.
+
+
+## Décimo cuarta semana, 16 de enero de 2017
+
+- [x] Entender los costes y prestaciones de las diferentes plataformas virtuales.
+- [x] Asimilar las buenas prácticas en la elección de una plataforma virtual.
+
+### Otros Objetivos
+
+- [x] Entender el suficiente Ruby para poder hacer cosas un poco más avanzadas con Vagrant.
+- [x] Comparar costes y prestaciones de diferentes plataformas virtuales.
+
 
 ##Enlace al repositorio de los ejercicios de la asignatura
 
