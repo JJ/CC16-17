@@ -136,5 +136,26 @@
 - [x] Alta en Docker Hub.
 
 
+## Objetivos décimo tercera semana
+
+- [x] Conocer sistemas operativos específicos para trabajar con contenedores.
+- [x] Entender los mecanismos de coordinación de contenedores
+- [x] Repaso y dudas sobre el último hito de la práctica.
+
+### Otros objetivos
+
+- [ ] Trabajar con CoreOS
+- [ ] Entender etcd y los mecanismos de coordinación
+
+
+## Objetivos a cubrir en la décimo cuarta semana
+
+- [x] Entender los costes y prestaciones de las diferentes plataformas virtuales.
+- [x] Asimilar las buenas prácticas en la elección de una plataforma virtual.
+
+### Otros objetivos
+
+- [x] Entender el suficiente Ruby para poder hacer cosas un poco más avanzadas con Vagrant.
+- [x] Comparar costes y prestaciones de diferentes plataformas virtuales.
 
 
