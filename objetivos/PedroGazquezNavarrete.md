@@ -151,3 +151,40 @@
 - [x] Instalar lxc en Linux y probar los ejemplos. [Ejercicio 1](https://github.com/pedrogazquez/EjerciciosCC16-17/blob/master/Tema4Contenedores/EjerciciosTema4.md)
 
 - [x] Conocer sistemas operativos "ligeros" especializados para su uso en contenedores tales como Alpine, Plamo u otros.[Ejercicio 2](https://github.com/pedrogazquez/EjerciciosCC16-17/blob/master/Tema4Contenedores/EjerciciosTema4.md)
+
+#Duodécima semana, comienza el 19 de diciembre 2016
+
+##Objetivos de la asignatura
+
+* [x] Entender el papel de los contenedores en la infraestructura virtual.
+* [x] Comprender los procesos de definición de contenedores.
+
+##Objetivos adicionales
+
+* [x] Trabajar con Docker.
+* [x] Alta en Docker Hub.
+
+#Decimotercera semana, comienza el 9 de enero de 2017
+
+##Objetivos de la asignatura
+
+* [x] Conocer sistemas operativos específicos para trabajar con contenedores.
+* [x] Entender los mecanismos de coordinación de contenedores.
+* [x] Repaso y dudas sobre el último hito de la práctica.
+
+##Objetivos adicionales
+
+* [ ] Trabajar con CoreOS.
+* [ ] Entender etcd y los mecanismos de coordinación.
+
+#Decimocuarta semana, comienza el 16 de enero de 2017
+
+##Objetivos de la asignatura
+
+* [x] Entender los costes y prestaciones de las diferentes plataformas virtuales.
+* [x] Asimilar las buenas prácticas en la elección de una plataforma virtual.
+
+##Objetivos adicionales
+
+* [x] Entender el suficiente Ruby para poder hacer cosas un poco más avanzadas con Vagrant.
+* [x] Comparar costes y prestaciones de diferentes plataformas virtuales.
