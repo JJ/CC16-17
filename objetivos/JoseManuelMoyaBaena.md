@@ -50,7 +50,20 @@
 
 ##Objetivos Undecima semana
 28. [x] Entender el concepto de contenedor.
-29. [x] Comprender su encaje en la infraestructura virtual. 
+29. [x] Comprender su encaje en la infraestructura virtual.
+
+##Objetivos Duodecima semana
+30. [x] Entender el papel de los contenedores en la infraestructura virtual.
+31. [x] Comprender los procesos de definición de contenedores.
+
+##Objetivos Décimo tercera semana
+32. [x] Conocer sistemas operativos específicos para trabajar con contenedores.
+33. [x] Entender los mecanismos de coordinación de contenedores.
+34. [x] Repaso y dudas sobre el último hito de la práctica.
+
+##Objetivos Décimo cuarta semana
+35. [x] Entender los costes y prestaciones de las diferentes plataformas virtuales.
+36. [x] Asimilar las buenas prácticas en la elección de una plataforma virtual.
 
 
 ## Otros objetivos
@@ -89,3 +102,9 @@
 * [x] Probar diferentes proveedores de nube y ver las posibilidades que ofrecen.
 * [x] Instalar lxc en Linux y probar los ejemplos.
 * [x] Conocer sistemas operativos "ligeros" especializados para su uso en contenedores tales como Alpine, Plamo u otros.
+* [x] Trabajar con Docker.
+* [x] Alta en Docker Hub.
+* [ ] Trabajar con CoreOS.
+* [x] Entender etcd y los mecanismos de coordinación.
+* [x] Entender el suficiente Ruby para poder hacer cosas un poco más avanzadas con Vagrant.
+* [x] Comparar costes y prestaciones de diferentes plataformas virtuales.
