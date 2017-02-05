@@ -134,8 +134,29 @@
 - [x] Entender el papel de los contenedores en la infraestructura virtual.
 - [x] Comprender los procesos de definición de contenedores.
 
-
 ### Otros objetivos
 
 - [x] Trabajar con Docker.
 - [x] Alta en Docker Hub.
+
+## Objetivos a realizar en la decimo tercera semana de clase 9 de Enero
+
+- [x] Conocer sistemas operativos específicos para trabajar con contenedores.
+- [x] Entender los mecanismos de coordinación de contenedores.
+- [x] Repaso y dudas sobre el último hito de la práctica.
+
+### Otros objetivos
+
+- [ ] Trabajar con CoreOS.
+- [ ] Entender etcd y los mecanismos de coordinación.
+
+## Objetivos a realizar en la decimo cuarta semana de clase 16 de Enero
+
+- [x] Entender los costes y prestaciones de las diferentes plataformas virtuales.
+- [x] Asimilar las buenas prácticas en la elección de una plataforma virtual.
+- [x] Repaso y dudas sobre el último hito de la práctica.
+
+### Otros objetivos
+
+- [x] Entender el suficiente Ruby para poder hacer cosas un poco más avanzadas con Vagrant.
+- [x] Comparar costes y prestaciones de diferentes plataformas virtuales.
