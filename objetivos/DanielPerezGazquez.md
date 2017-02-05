@@ -136,3 +136,29 @@
 - [X] Instalar lxc en Linux y probar los ejemplos.
 - [X] Conocer sistemas operativos "ligeros" especializados para su uso en contenedores tales como Alpine, Plamo u otros.
 
+## Objetivos a cubrir en la duodécima semana
+
+- [X] Trabajar con Docker.
+- [X] Alta en Docker Hub.
+
+## Objetivos a cubrir en la décimo tercera semana
+
+- [X] Conocer sistemas operativos específicos para trabajar con contenedores.
+- [X] Entender los mecanismos de coordinación de contenedores.
+- [X] Repaso y dudas sobre el último hito de la práctica.
+
+### Otros Objetivos
+
+- [ ] Trabajar con CoreOS.
+- [X] Entender etcd y los mecanismos de coordinación.
+
+## Objetivos a cubrir en la décimo cuarta semana
+
+- [X] Entender los costes y prestaciones de las diferentes plataformas virtuales.
+- [X] Asimilar las buenas prácticas en la elección de una plataforma virtual.
+- [X] Entrega del Hito 5
+
+### Otros Objetivos
+
+- [X] Entender el suficiente Ruby para poder hacer cosas un poco más avanzadas con Vagrant.
+- [X] Comparar costes y prestaciones de diferentes plataformas virtuales.
